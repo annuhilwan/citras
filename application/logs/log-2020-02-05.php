@@ -1,0 +1,56 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-02-05 10:20:46 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 10:20:46 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 10:22:20 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 10:22:20 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 10:24:00 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 10:24:00 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 10:26:22 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 10:26:23 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 10:31:47 --> Severity: error --> Exception: syntax error, unexpected end of file /home/masterc3/public_html/citra/application/modules/registrasi/views/detailMedicalCheckup.php 369
+ERROR - 2020-02-05 10:31:47 --> Severity: error --> Exception: syntax error, unexpected end of file /home/masterc3/public_html/citra/application/modules/registrasi/views/detailMedicalCheckup.php 369
+ERROR - 2020-02-05 10:44:18 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 10:44:18 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 10:45:05 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 10:45:06 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 10:46:10 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 10:46:11 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 10:46:53 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 10:46:53 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 10:47:05 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 10:47:06 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 10:47:22 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 10:47:22 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 10:48:50 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 10:48:51 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 10:48:53 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 10:48:53 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 10:48:54 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 10:48:54 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 10:50:05 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 10:50:05 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 10:51:03 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 10:51:03 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 10:51:15 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 10:51:15 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 10:51:46 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 10:51:46 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 10:52:09 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 10:52:09 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 11:01:59 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 11:02:00 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 11:07:52 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 11:07:52 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 11:08:22 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 11:08:22 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 11:09:26 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 11:09:26 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 11:09:28 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 11:09:28 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 11:09:42 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 11:09:42 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 11:14:16 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 11:14:16 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 11:14:35 --> 404 Page Not Found: /index
+ERROR - 2020-02-05 11:14:35 --> 404 Page Not Found: /index

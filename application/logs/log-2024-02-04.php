@@ -1,0 +1,1835 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-02-04 01:49:07 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 01:49:51 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 02:59:46 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 02:59:46 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 02:59:46 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 03:06:20 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 03:06:20 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 03:06:20 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 03:07:51 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 03:07:51 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 03:07:51 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 06:38:12 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 07:30:19 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 07:30:19 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 07:30:19 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 07:32:16 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 08:19:08 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 08:19:09 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 10:25:01 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 10:30:16 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 10:48:54 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 12:11:45 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 12:11:45 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 12:11:45 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 12:17:32 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 12:17:32 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 12:17:32 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 12:17:35 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 12:17:43 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 12:17:43 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 12:17:43 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 12:17:46 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 12:18:44 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 12:18:44 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 12:18:44 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 12:44:31 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 12:44:32 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 12:44:33 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 12:44:34 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 12:44:35 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 12:44:36 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 12:44:36 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 12:44:37 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 12:44:38 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 12:51:57 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 12:51:57 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 12:51:57 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 12:52:01 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 12:53:09 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 12:53:09 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 12:53:09 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 13:12:36 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 13:12:36 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 13:12:36 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 13:12:40 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 13:12:53 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 13:12:53 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 13:12:53 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 13:12:57 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 13:14:02 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 13:14:02 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 13:14:02 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 13:14:07 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 13:14:18 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 13:14:18 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 13:14:18 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 13:14:41 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 13:14:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 13:14:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 13:14:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 13:14:56 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 13:15:25 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 13:15:25 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 13:15:25 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 13:15:28 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 13:15:28 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 13:15:28 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 13:15:57 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 13:15:57 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 13:15:57 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 13:35:57 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 13:39:11 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:08:27 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:08:37 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:08:38 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:08:39 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:08:40 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:08:41 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:09:07 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:09:42 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:09:44 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:09:45 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:09:52 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:09:54 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:09:56 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:09:57 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:09:59 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:10:01 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:11:13 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:11:13 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:11:15 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:11:16 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:11:24 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:11:25 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:11:27 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:11:28 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:11:30 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:11:31 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:11:33 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:11:34 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:11:36 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:11:38 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:11:42 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:11:43 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:11:44 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:11:45 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:11:47 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:11:48 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:11:49 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:11:51 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:11:53 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:11:55 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:12:04 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:12:06 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:12:07 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:12:09 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:12:10 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:12:12 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:12:15 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:12:17 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:12:19 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:12:21 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:14:11 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:14:34 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:14:51 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:15:08 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:15:34 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:15:58 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:16:23 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:17:00 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:17:35 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:17:51 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:18:06 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:18:23 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:19:09 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:19:25 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:20:24 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:20:52 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:21:24 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:21:32 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:21:54 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:21:55 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:22:11 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:22:26 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:23:37 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:23:38 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:23:59 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:24:02 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:24:16 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:24:18 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:24:35 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:24:36 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:24:53 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:24:54 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:25:10 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:25:39 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:25:46 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:26:03 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:26:07 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:26:23 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:26:31 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:27:49 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:27:53 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:27:54 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 14:27:54 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 14:27:54 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 14:27:58 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:28:09 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:28:15 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:28:36 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:28:41 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:29:00 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:29:03 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:29:19 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:29:20 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:33:24 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 14:33:24 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 14:33:24 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 14:33:42 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:34:32 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:34:32 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:34:32 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:34:32 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:34:32 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:34:32 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:34:32 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 14:34:32 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 15:01:39 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 15:03:18 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 15:03:48 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 15:04:07 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 15:04:36 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 15:29:49 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 15:46:16 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 15:58:35 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 15:58:35 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 15:58:35 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 15:58:38 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 16:31:35 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:01:41 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:01:42 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:17:23 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:17:25 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:17:26 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:17:27 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:17:29 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:17:31 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:17:32 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:17:34 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:17:36 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:17:38 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:17:41 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:17:43 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:17:45 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:17:46 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:17:48 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:17:50 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:17:51 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:17:53 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:17:54 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:17:57 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:18:01 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:18:02 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:18:03 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:18:04 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:18:07 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:18:08 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:18:10 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:18:12 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:18:13 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:18:17 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:18:22 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:18:24 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:18:25 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:18:27 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:18:28 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:18:31 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:18:32 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:18:34 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:18:36 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:18:39 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:18:43 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:18:44 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:18:46 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:18:48 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:18:49 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:18:50 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:18:52 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:18:53 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:18:55 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:18:57 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:19:53 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:20:14 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:20:35 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:20:53 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:21:14 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:21:31 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:21:49 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:22:15 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:22:33 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:22:53 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:23:16 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:23:45 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:24:11 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:24:29 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:24:50 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:25:12 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:25:31 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:25:49 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:26:11 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:26:32 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:27:01 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:27:24 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:27:42 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:28:45 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:29:04 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:29:25 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:30:31 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:30:55 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:31:13 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:31:27 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:31:55 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:32:10 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:32:26 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:32:43 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:33:00 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:33:02 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:33:02 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:33:03 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:33:03 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:33:14 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:33:30 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:33:48 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:34:02 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:34:25 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:34:41 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:35:45 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:36:18 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:36:43 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:37:06 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:37:23 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:37:47 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:38:30 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:38:46 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:38:57 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:39:02 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:39:30 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:39:32 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:39:33 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:39:34 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:39:36 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:39:37 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:39:38 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:39:40 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:39:41 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:39:42 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:39:45 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:39:47 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:39:48 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:39:49 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:39:51 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:39:51 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:39:52 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:39:53 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:39:54 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:39:55 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:39:57 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:39:59 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:40:01 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:40:02 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:40:03 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:40:05 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:40:06 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:40:06 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:40:07 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:40:08 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:40:10 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:40:12 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:40:14 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:40:17 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:40:18 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:40:21 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:40:22 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:40:23 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:40:24 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:40:25 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:40:27 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:40:30 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:40:30 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:40:32 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:40:35 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:40:36 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:40:38 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:40:40 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:40:41 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:40:42 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:40:44 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:40:46 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:40:47 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:40:50 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:41:15 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:41:31 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:41:49 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:42:05 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:42:21 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:42:29 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:42:44 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:43:02 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:43:20 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:43:36 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:43:52 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:44:09 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:44:27 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:44:44 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:45:02 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:45:18 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:45:32 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:45:49 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:46:05 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:46:22 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:46:41 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:46:56 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:47:09 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:47:25 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:47:38 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:47:55 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:48:23 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:48:41 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:48:54 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:50:01 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:50:15 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:50:30 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:50:44 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:51:05 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:51:21 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:51:39 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:51:58 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:52:15 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:52:30 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:52:44 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:52:53 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 17:52:53 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 17:52:53 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 17:53:09 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:53:10 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:53:31 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:53:46 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:54:00 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:54:14 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:54:19 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 17:54:19 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 17:54:19 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 17:54:28 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:56:15 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:56:31 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:56:44 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:56:59 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:57:14 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:57:27 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:57:43 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:58:22 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:58:22 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:58:24 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:58:26 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:58:26 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:58:27 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:58:29 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:58:31 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:58:32 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:58:34 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:58:38 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:58:40 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:58:42 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:58:45 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:58:46 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:58:48 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:58:49 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:58:51 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:58:52 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:58:53 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:58:57 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:58:58 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:59:00 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:59:01 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:59:03 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:59:05 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:59:06 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:59:07 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:59:09 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:59:11 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:59:13 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 17:59:13 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 17:59:13 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 17:59:16 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:59:17 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:59:21 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:59:23 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:59:25 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:59:27 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:59:28 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:59:30 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:59:32 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:59:33 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:59:37 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:59:38 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:59:40 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:59:41 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:59:42 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:59:44 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 17:59:45 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:00:06 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:00:20 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:00:34 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:00:55 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:01:18 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:01:57 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:02:17 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:02:29 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:02:44 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:02:57 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:02:57 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:03:17 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:03:39 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:03:52 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:03:55 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:04:05 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:04:21 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:04:43 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:04:58 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:05:16 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:05:30 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:05:50 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:06:05 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:06:35 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:06:54 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:07:15 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:07:30 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:07:46 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:08:05 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:08:27 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:08:44 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:09:00 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:09:18 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:09:42 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:09:57 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:10:11 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:10:32 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:10:45 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:10:49 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:11:06 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:11:09 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:11:19 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:11:28 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:11:36 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:11:38 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:12:00 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:12:17 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:13:02 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:13:30 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:13:42 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:14:22 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:14:31 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:18:24 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:19:03 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:21:16 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:26:47 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 18:26:47 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 18:26:47 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 18:26:53 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:27:42 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:28:12 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:28:21 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:29:03 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:29:12 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:29:20 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:29:33 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:29:54 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:30:19 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:30:34 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:30:47 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:31:02 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:31:17 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:31:25 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 18:31:25 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 18:31:25 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 18:31:26 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:31:32 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:31:40 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 18:31:40 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 18:31:40 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 18:31:42 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:31:52 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:32:11 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:32:21 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:32:32 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:32:32 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 18:32:32 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 18:32:32 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 18:33:24 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:33:39 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:33:39 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:33:41 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 18:33:41 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 18:33:41 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 18:33:50 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:34:30 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:34:37 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:34:46 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:34:54 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:35:03 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:35:17 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:35:29 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:35:30 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 18:35:30 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 18:35:30 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 18:35:35 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:35:43 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:36:06 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 18:36:06 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 18:36:06 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 18:38:21 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:41:44 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:42:06 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:42:11 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:42:14 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:42:29 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:43:04 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:43:14 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:43:31 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:43:35 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:43:42 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:44:05 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:44:17 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:44:24 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:44:24 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:44:32 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:44:38 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:44:41 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:44:47 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:44:53 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:45:04 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:45:06 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:45:08 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:45:09 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:45:11 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:45:13 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:45:15 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:45:17 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:45:18 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:45:19 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:45:21 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:45:22 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:45:24 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:45:26 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:45:28 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:45:29 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:45:30 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:45:34 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:45:39 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:45:53 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:46:10 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:46:30 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:46:47 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:46:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 18:46:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 18:46:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 18:47:03 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:47:03 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:47:21 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:47:39 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:47:55 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:48:10 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:48:24 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:48:39 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:48:43 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:48:54 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:49:11 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:49:27 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:50:35 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 18:50:35 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 18:50:35 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 18:50:43 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:51:06 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:53:22 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:53:28 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:53:31 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 18:53:31 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 18:53:31 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 18:53:34 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:53:45 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:53:55 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:54:02 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:54:22 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 18:54:22 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 18:54:22 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 18:54:38 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:54:41 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:55:27 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:55:36 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:55:46 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:55:54 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:56:02 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:56:45 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:56:56 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:57:12 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:57:32 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:57:40 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:57:45 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:58:25 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:58:36 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:58:47 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:59:00 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:59:13 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:59:22 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:59:29 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:59:39 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 18:59:59 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:00:14 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:00:25 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:00:35 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:00:39 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:00:47 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:00:58 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:01:06 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:02:11 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:02:42 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:02:48 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:02:58 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:03:06 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:03:15 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:04:08 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:04:12 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:04:26 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:06:10 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:06:26 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:06:30 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:07:35 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 19:07:35 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 19:07:35 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 19:08:47 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 19:08:47 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 19:08:47 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 19:08:52 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 19:08:52 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 19:08:52 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 19:09:01 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:09:06 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 19:09:06 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 19:09:06 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 19:09:08 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:11:17 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:11:24 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:11:34 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:11:40 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:11:45 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:11:49 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:11:49 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 19:11:49 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 19:11:49 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 19:11:52 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:11:53 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:11:56 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:12:03 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:12:23 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:12:29 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:12:33 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:12:38 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:12:49 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:12:56 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:13:34 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:13:42 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:13:48 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:13:57 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:14:02 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:14:06 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:14:11 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:14:15 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:14:29 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:14:41 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:14:49 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:14:54 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:14:57 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:15:01 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:15:04 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:15:10 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:15:15 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:15:18 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:15:21 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:15:25 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:15:29 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:15:32 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:15:36 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:15:38 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 19:15:38 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 19:15:38 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 19:15:40 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:15:44 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:15:48 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:15:50 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:17:51 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:18:00 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:18:07 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:18:51 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:18:56 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 19:18:56 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 19:18:56 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 19:19:01 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:19:11 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:19:16 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:19:21 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:19:22 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:19:26 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:19:31 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:19:36 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:19:43 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:19:45 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:19:50 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:19:56 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:21:08 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:21:52 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:21:58 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:22:04 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:22:59 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:23:19 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:23:22 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:23:28 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:23:33 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:23:36 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:23:39 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:23:43 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:23:47 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:23:51 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:23:55 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:23:58 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:24:02 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:24:05 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:24:10 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:24:14 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:24:18 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:24:23 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:24:26 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:24:30 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:24:31 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:24:34 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:24:37 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:24:38 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:24:41 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:24:44 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:24:49 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:25:03 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:25:06 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:25:11 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:25:14 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:25:55 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:25:59 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:26:03 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:26:07 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:26:12 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:26:23 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:26:28 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:26:32 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:26:36 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:26:40 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:26:44 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:26:48 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:26:53 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:26:57 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:27:01 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:27:05 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:27:12 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:27:17 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:27:22 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:27:26 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:27:30 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:27:34 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:27:45 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:27:49 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:27:54 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:28:07 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:28:12 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:28:18 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:28:21 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:28:24 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:28:36 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:28:41 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:28:46 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:28:50 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:28:54 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:29:23 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:29:23 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:29:29 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:29:41 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:29:46 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:29:54 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:30:00 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:30:04 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:30:08 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:30:12 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:30:12 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:30:16 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:30:20 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:30:23 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:30:30 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:30:33 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:30:37 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:30:40 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:30:43 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:30:46 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:30:50 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:30:54 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:30:57 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:31:00 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:31:21 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:31:25 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:31:28 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:31:33 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:31:36 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:32:01 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:32:05 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:32:08 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:32:14 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:32:20 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:32:25 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:32:31 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:32:37 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:32:41 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:32:42 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:32:44 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:33:09 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:33:13 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:33:39 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:34:01 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:34:06 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:34:10 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:34:14 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:34:18 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:34:21 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:34:25 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:34:25 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:34:29 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:34:32 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:34:32 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:34:37 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:34:41 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:34:44 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:34:49 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:34:56 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:35:04 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:35:12 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:35:20 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:35:24 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:35:27 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:35:31 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:35:34 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:35:38 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:35:42 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:35:47 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:35:48 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:35:50 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:35:54 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:35:57 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:36:01 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:36:04 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:36:25 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:36:35 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:36:44 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:36:51 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:37:01 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:37:11 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:38:38 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:38:43 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:39:00 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:39:06 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:39:10 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:39:21 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:39:31 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:39:36 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:39:56 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:39:56 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:40:00 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:40:03 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:40:07 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:40:13 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:40:16 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:40:22 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:40:28 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:40:32 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:40:36 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:40:40 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:40:44 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:40:48 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:40:52 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:41:01 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:41:19 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:41:29 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:41:33 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:41:37 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:41:41 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:41:45 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:41:49 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:41:53 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:41:57 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:42:00 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:42:05 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:42:11 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:42:16 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:42:20 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:42:24 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:42:33 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:42:36 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:42:42 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:42:46 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:42:51 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:42:55 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:42:59 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:43:03 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:43:06 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:43:10 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:43:17 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:43:32 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:43:40 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:43:44 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:43:47 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:43:51 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:43:55 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:43:59 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:44:03 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:44:06 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:44:11 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:44:27 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:44:30 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:44:34 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:44:37 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:44:42 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:44:46 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:44:49 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:44:52 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:44:56 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:45:00 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:45:04 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:45:08 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:45:13 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:45:17 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:45:21 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:45:24 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:45:27 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:45:31 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:45:47 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:45:56 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:46:00 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:46:03 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:46:10 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:46:24 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:46:33 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:46:39 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:46:43 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:46:48 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:46:52 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:46:56 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:47:00 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:47:05 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:47:09 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:47:13 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:47:17 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:47:21 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:47:24 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:47:28 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:47:32 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:47:35 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:47:39 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:47:43 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:47:47 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:47:49 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:47:52 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:47:56 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:48:06 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:48:11 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:48:14 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:48:20 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:48:29 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:48:40 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:48:57 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:49:06 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:49:17 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:49:32 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:49:36 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:49:40 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:49:44 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:49:49 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:49:58 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:50:09 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:50:18 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:50:22 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:50:27 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:50:34 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:50:39 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:50:44 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:50:48 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:50:53 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:50:59 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:51:04 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:51:09 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:51:17 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:51:23 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:51:33 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:51:36 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:51:46 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:52:09 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:52:13 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:52:26 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:52:28 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:52:31 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:52:35 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:52:37 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:52:38 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:52:41 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:52:42 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:52:45 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:52:49 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:52:53 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:52:56 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:53:00 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:53:03 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:53:07 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:53:10 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:53:14 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:53:17 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:53:21 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:53:25 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:53:32 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:53:39 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:53:44 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:53:48 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:53:51 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:53:55 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:53:59 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:54:02 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:54:06 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:54:09 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:54:13 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:54:15 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:54:19 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:54:21 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:54:27 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:54:31 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:54:34 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:54:34 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:54:38 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:54:42 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:54:48 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:54:49 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:54:53 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:54:57 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:55:22 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:55:31 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:55:51 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:55:57 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:55:57 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:56:01 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:56:03 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:56:05 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:56:08 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:56:09 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:56:13 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:56:17 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:56:21 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:56:24 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:56:30 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:56:33 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:56:36 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:56:40 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:56:43 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:56:47 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:56:51 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:56:55 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:56:58 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:57:02 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:57:08 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:57:11 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:57:17 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:57:20 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:57:23 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:57:24 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:57:28 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:57:33 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:57:36 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:57:40 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:57:45 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:57:51 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:57:54 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:58:21 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:58:26 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:58:31 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:58:35 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:58:38 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:58:43 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:58:46 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:58:53 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:58:54 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:58:58 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:59:00 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:59:03 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:59:06 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:59:10 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:59:11 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:59:14 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:59:18 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:59:22 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:59:22 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:59:25 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:59:29 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:59:31 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:59:33 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:59:37 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:59:39 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:59:41 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:59:46 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 19:59:49 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:00:06 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:00:12 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:00:12 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:00:26 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:00:42 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:00:48 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:00:50 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:00:58 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:01:15 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:01:20 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:01:26 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:01:33 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:01:40 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:01:45 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:01:48 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:01:50 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:01:54 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:02:02 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:02:19 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:05:10 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:05:24 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:06:02 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:06:10 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:06:15 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:06:19 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:06:23 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:06:28 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:06:33 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:06:36 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:06:40 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:06:43 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:06:48 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:06:51 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:06:55 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:06:59 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:07:03 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:07:06 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:07:11 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:07:14 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:07:27 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:07:42 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:07:53 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:07:57 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:08:01 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:08:05 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:08:10 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:08:14 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:08:17 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:08:21 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:08:29 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:08:37 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:08:38 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:08:41 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:08:45 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:08:59 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:09:10 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:09:12 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:09:15 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:09:19 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:09:23 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:09:27 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:09:28 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:09:33 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:09:34 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:09:39 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:09:41 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:09:42 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:09:47 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:09:48 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:09:51 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:09:55 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:09:55 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:09:59 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:10:02 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:10:03 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:10:13 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:10:14 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:10:18 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:10:23 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:10:30 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:10:33 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:10:40 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:10:45 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:10:49 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:10:49 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:10:55 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:10:55 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:10:59 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:11:03 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:11:05 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:11:11 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:11:13 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:11:23 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:11:29 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:11:33 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:11:35 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:11:43 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:11:45 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:11:47 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:11:50 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:11:54 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:11:55 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:12:01 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:12:04 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:12:04 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:12:09 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:12:10 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:12:25 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:12:47 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:13:04 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:13:11 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:13:25 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:13:39 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:14:00 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:14:04 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:14:07 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:14:20 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:14:30 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:15:21 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:15:28 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:15:39 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:15:56 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:16:01 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:16:14 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:16:30 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:16:46 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:16:53 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:16:57 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:17:02 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:17:05 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:17:08 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:17:12 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:17:17 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:17:54 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:18:01 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:18:13 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:18:26 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:18:28 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:18:51 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:19:21 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:19:49 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:19:58 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:20:11 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:20:21 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:20:36 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:20:53 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:21:09 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:21:15 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:21:20 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:21:26 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:21:33 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:21:42 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:21:47 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:22:21 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:22:27 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:23:00 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:24:02 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:24:21 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:24:26 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:24:30 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:24:30 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:24:38 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:24:43 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:24:47 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:24:48 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:24:51 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:24:54 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:25:01 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:25:03 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:25:06 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:25:07 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:25:10 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:25:20 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:25:27 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:25:34 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:25:35 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:25:38 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:25:47 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:25:50 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:25:52 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:26:02 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:26:05 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:26:18 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:26:18 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:26:22 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:26:38 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:26:50 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:27:14 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:27:40 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:27:56 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:27:58 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:28:16 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:28:36 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:29:03 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:29:26 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:29:32 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:29:43 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:30:13 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:30:17 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:30:21 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:30:28 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:30:33 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:30:37 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:30:41 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:30:47 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:30:51 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:31:01 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:31:12 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:31:16 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:31:46 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 20:31:46 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 20:31:46 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 20:31:47 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:32:14 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:32:19 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:33:53 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:33:59 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:34:43 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:35:14 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:35:19 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:35:23 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:35:26 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:35:30 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:35:34 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:35:38 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:35:39 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:35:55 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:36:05 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:36:11 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:36:27 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:37:23 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:37:45 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:37:49 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:37:52 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:37:53 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:37:56 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:37:58 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:38:06 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:38:08 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:38:11 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:38:22 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:38:29 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:38:31 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:38:33 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:38:42 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:38:47 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:38:52 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:38:59 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:39:07 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:39:13 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:39:25 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:39:40 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:39:45 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:39:49 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:39:51 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:39:58 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:40:09 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:40:14 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:40:24 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:40:36 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:40:50 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:40:54 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:40:56 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:40:59 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:41:01 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:41:07 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:41:09 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:41:14 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:41:23 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:41:37 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:41:43 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:41:49 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:42:05 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:42:20 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:42:47 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:42:49 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:42:55 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:42:59 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:43:12 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:43:25 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:43:43 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:43:48 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:43:55 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:43:56 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:44:03 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:44:14 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:44:15 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:44:20 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:44:24 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:44:37 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:44:40 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:45:12 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:45:18 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:45:20 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 20:45:20 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 20:45:20 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 20:45:23 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:45:25 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:45:27 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:45:36 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:45:42 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:45:42 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:45:46 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:45:54 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:45:59 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:46:00 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 20:46:00 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 20:46:00 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 20:46:03 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 20:46:03 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 20:46:03 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 20:46:03 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:46:04 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:46:08 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 20:46:08 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 20:46:08 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 20:46:12 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:46:15 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:46:22 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:46:32 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 20:46:32 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 20:46:32 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 20:46:33 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:46:49 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:47:19 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:47:53 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:48:29 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:48:38 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 20:48:38 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 20:48:38 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 20:48:49 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:48:57 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:49:12 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:49:29 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 20:49:29 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 20:49:29 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 20:49:39 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:50:02 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:50:08 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:50:15 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:50:59 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:51:04 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:51:08 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:51:21 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 20:51:21 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 20:51:21 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 20:53:42 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:53:58 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:57:42 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:57:53 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:57:59 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:58:07 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:58:15 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:59:43 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 20:59:59 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:00:07 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:00:12 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:00:19 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:00:27 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:00:33 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:00:48 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:00:52 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:01:00 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:01:11 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:01:15 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:01:24 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:01:29 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:01:36 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:01:47 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:02:11 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:02:24 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:02:43 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:03:03 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:03:08 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:03:33 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:04:04 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:10:51 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:11:35 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:13:52 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:15:49 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:17:10 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:18:43 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:18:53 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:19:13 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:19:21 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:19:29 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:19:52 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:19:58 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:20:08 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:20:16 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:20:22 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:20:34 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:20:42 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:20:48 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:21:00 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:21:22 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:21:32 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:21:39 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:21:56 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:22:07 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:22:21 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:22:35 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:22:46 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:22:53 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:23:27 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:23:36 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:23:52 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:24:03 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:24:12 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:24:25 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:24:32 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:24:32 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:24:45 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:25:09 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:25:13 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:25:33 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:25:38 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:25:44 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:25:51 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:25:56 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:26:35 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:26:51 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:26:59 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:27:19 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:27:25 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:27:38 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:27:56 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:28:10 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:28:17 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:28:27 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:28:36 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:50:23 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:50:25 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:50:26 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:50:34 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:50:38 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 21:50:47 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 22:00:22 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 22:00:22 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 22:00:22 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 22:00:47 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 22:03:28 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 22:03:28 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 22:03:28 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 22:03:31 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 22:14:24 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 22:14:24 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 22:14:24 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 22:14:26 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 22:14:26 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 22:14:26 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 22:14:26 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 22:24:54 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 22:24:54 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 22:24:54 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 22:25:05 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 22:37:14 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 22:37:14 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 22:37:14 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 22:39:22 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 22:40:28 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 22:41:46 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 22:41:46 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 22:41:46 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 22:42:25 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 22:45:32 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 22:45:51 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 22:49:02 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 22:50:48 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 22:53:04 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 22:56:27 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 22:57:20 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:00:20 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:03:26 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:04:20 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:07:34 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:09:51 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:11:30 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:11:43 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:11:49 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:12:21 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:12:32 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:12:58 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:13:06 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:13:37 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:13:47 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:13:54 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:14:03 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:14:06 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:14:10 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:14:21 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:14:28 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:14:34 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:14:59 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:15:09 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:15:20 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:15:38 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:15:57 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:16:19 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:16:26 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:17:09 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:17:27 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:17:35 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:17:44 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:17:52 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:18:15 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:18:30 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:19:06 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:19:21 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:20:12 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:20:57 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:22:46 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:24:06 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:24:30 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:24:37 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:24:43 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:24:53 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:25:02 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:25:17 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:25:23 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:25:33 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:25:44 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:25:57 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:26:08 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:26:18 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:26:24 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:26:37 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:26:45 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:26:52 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:27:09 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:27:11 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:27:15 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:27:23 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:27:47 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:28:01 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:28:15 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:28:25 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:28:31 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:28:44 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:29:03 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:29:20 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:29:28 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:29:47 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:29:58 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:30:13 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:30:14 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:30:24 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:30:35 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:30:44 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:30:55 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:31:04 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:32:16 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:32:29 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:32:41 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:34:28 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:36:21 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:36:28 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:36:49 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:36:57 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:37:01 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:37:03 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:37:12 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:38:54 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:40:21 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:40:27 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:40:45 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:40:53 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:40:59 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:41:08 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:41:23 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:41:28 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:41:29 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 23:41:29 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 23:41:29 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 23:41:58 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:42:18 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:42:27 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:42:28 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 314
+ERROR - 2024-02-04 23:42:28 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 388
+ERROR - 2024-02-04 23:42:28 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u346274557/domains/medicalcitra.com/public_html/application/modules/registrasi/views/detailDataDiriPasienPerPasien.php 433
+ERROR - 2024-02-04 23:42:38 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:42:52 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:42:59 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:43:18 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:43:24 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:43:40 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:43:47 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:43:55 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:44:02 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:44:18 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:44:32 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:45:43 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:45:52 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:46:07 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:46:13 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:46:33 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:46:39 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:46:45 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:46:52 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:47:17 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:47:42 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:48:18 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:48:30 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:48:35 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:49:04 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:49:29 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:49:54 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:50:06 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:50:13 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:51:08 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:51:20 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:51:30 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:51:54 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:52:02 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:52:06 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:52:13 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:52:24 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:52:38 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:52:45 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:52:52 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:53:01 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:53:07 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:53:14 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:53:26 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:53:32 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:53:35 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:53:43 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:53:52 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:54:03 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:54:09 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:55:24 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:55:36 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:55:46 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:55:49 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:55:56 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:57:37 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:57:52 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:57:59 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:58:17 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:58:34 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:59:04 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:59:23 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:59:24 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:59:32 --> 404 Page Not Found: /index
+ERROR - 2024-02-04 23:59:40 --> 404 Page Not Found: /index

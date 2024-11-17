@@ -1,0 +1,544 @@
+[15-Dec-2019 13:30:08 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:30:10 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:30:15 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:30:16 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:30:19 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:30:22 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:30:24 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:30:26 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:30:28 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:30:28 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:30:29 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:30:30 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:30:38 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:30:41 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:30:53 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:30:58 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:31:38 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:31:47 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:31:51 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:31:52 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:32:23 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:32:24 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:32:25 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:32:32 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:32:57 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:33:04 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:36:03 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:36:24 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:36:26 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:36:33 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:36:42 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:37:16 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:37:45 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:37:49 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:39:01 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:39:15 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:39:26 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:43:08 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:43:48 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:43:51 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:44:02 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:44:09 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:46:57 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:47:08 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:47:15 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:57:51 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:58:03 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[15-Dec-2019 13:59:44 UTC] PHP Fatal error:  Cannot declare class User_model, because the name is already in use in /home/masterc3/public_html/citra/application/modules/registrasi/models/Registrasi_model.php on line 12
+[12-Jan-2020 16:11:57 UTC] PHP Fatal error:  require(): Failed opening required '/home/masterc3/public_html/citra/application/third_party/PHPExcel/Autoloader.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/masterc3/public_html/citra/application/third_party/PHPExcel.php on line 6
+[12-Jan-2020 16:11:58 UTC] PHP Fatal error:  require(): Failed opening required '/home/masterc3/public_html/citra/application/third_party/PHPExcel/Autoloader.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/masterc3/public_html/citra/application/third_party/PHPExcel.php on line 6
+[23-Jan-2020 11:19:16 UTC] INSERT DATA
+[23-Jan-2020 11:19:16 UTC] INSERT DATA
+[23-Jan-2020 11:19:49 UTC] INSERT DATA
+[23-Jan-2020 11:20:14 UTC] INSERT DATA
+[23-Jan-2020 11:20:14 UTC] INSERT DATA
+[23-Jan-2020 11:20:34 UTC] INSERT DATA
+[23-Jan-2020 11:20:52 UTC] INSERT DATA
+[23-Jan-2020 11:21:07 UTC] INSERT DATA
+[23-Jan-2020 11:21:24 UTC] INSERT DATA
+[23-Jan-2020 11:21:38 UTC] INSERT DATA
+[23-Jan-2020 11:21:38 UTC] INSERT DATA
+[23-Jan-2020 11:22:00 UTC] INSERT DATA
+[23-Jan-2020 11:22:25 UTC] INSERT DATA
+[23-Jan-2020 11:22:41 UTC] INSERT DATA
+[23-Jan-2020 11:22:54 UTC] INSERT DATA
+[23-Jan-2020 11:23:04 UTC] INSERT DATA
+[23-Jan-2020 11:23:32 UTC] INSERT DATA
+[23-Jan-2020 11:23:32 UTC] INSERT DATA
+[23-Jan-2020 11:23:47 UTC] INSERT DATA
+[23-Jan-2020 11:24:03 UTC] INSERT DATA
+[23-Jan-2020 11:24:17 UTC] INSERT DATA
+[23-Jan-2020 11:27:50 UTC] INSERT DATA
+[23-Jan-2020 11:28:00 UTC] INSERT DATA
+[23-Jan-2020 11:28:12 UTC] INSERT DATA
+[23-Jan-2020 11:28:27 UTC] INSERT DATA
+[23-Jan-2020 11:51:40 UTC] INSERT DATA
+[23-Jan-2020 11:51:56 UTC] INSERT DATA
+[23-Jan-2020 22:49:55 UTC] INSERT DATA
+[23-Jan-2020 22:50:39 UTC] INSERT DATA
+[24-Jan-2020 00:59:54 UTC] INSERT DATA
+[24-Jan-2020 02:11:46 UTC] INSERT DATA
+[24-Jan-2020 02:12:52 UTC] INSERT DATA
+[24-Jan-2020 02:13:48 UTC] INSERT DATA
+[24-Jan-2020 02:15:26 UTC] INSERT DATA
+[24-Jan-2020 07:51:25 UTC] INSERT DATA
+[24-Jan-2020 08:00:52 UTC] INSERT DATA
+[24-Jan-2020 08:01:07 UTC] INSERT DATA
+[24-Jan-2020 08:14:13 UTC] INSERT DATA
+[24-Jan-2020 08:38:33 UTC] INSERT DATA
+[24-Jan-2020 08:41:04 UTC] INSERT DATA
+[24-Jan-2020 08:41:13 UTC] INSERT DATA
+[24-Jan-2020 08:41:32 UTC] INSERT DATA
+[24-Jan-2020 09:22:50 UTC] INSERT DATA
+[24-Jan-2020 09:29:31 UTC] INSERT DATA
+[24-Jan-2020 09:37:21 UTC] INSERT DATA
+[24-Jan-2020 09:37:29 UTC] INSERT DATA
+[24-Jan-2020 09:37:56 UTC] INSERT DATA
+[24-Jan-2020 09:38:04 UTC] INSERT DATA
+[24-Jan-2020 09:38:11 UTC] INSERT DATA
+[24-Jan-2020 09:38:18 UTC] INSERT DATA
+[24-Jan-2020 09:38:33 UTC] INSERT DATA
+[24-Jan-2020 09:38:40 UTC] INSERT DATA
+[24-Jan-2020 09:38:52 UTC] INSERT DATA
+[24-Jan-2020 09:40:11 UTC] INSERT DATA
+[24-Jan-2020 09:40:19 UTC] INSERT DATA
+[24-Jan-2020 09:40:35 UTC] INSERT DATA
+[29-Jan-2020 02:50:24 UTC] INSERT DATA
+[29-Jan-2020 05:15:40 UTC] INSERT DATA
+[29-Jan-2020 15:15:11 UTC] INSERT DATA
+[30-Jan-2020 08:23:49 UTC] INSERT DATA
+[03-Feb-2020 03:42:19 UTC] INSERT DATA
+[03-Feb-2020 03:43:51 UTC] INSERT DATA
+[03-Feb-2020 03:45:37 UTC] INSERT DATA
+[03-Feb-2020 04:19:18 UTC] INSERT DATA
+[03-Feb-2020 04:21:45 UTC] INSERT DATA
+[03-Feb-2020 05:03:52 UTC] INSERT DATA
+[03-Feb-2020 05:04:31 UTC] INSERT DATA
+[03-Feb-2020 05:05:02 UTC] INSERT DATA
+[03-Feb-2020 05:06:24 UTC] INSERT DATA
+[03-Feb-2020 05:06:31 UTC] INSERT DATA
+[03-Feb-2020 09:11:06 UTC] INSERT DATA
+[03-Feb-2020 09:12:47 UTC] INSERT DATA
+[03-Feb-2020 09:13:08 UTC] INSERT DATA
+[03-Feb-2020 09:15:55 UTC] INSERT DATA
+[03-Feb-2020 09:16:22 UTC] INSERT DATA
+[03-Feb-2020 09:16:32 UTC] INSERT DATA
+[03-Feb-2020 09:17:52 UTC] INSERT DATA
+[03-Feb-2020 09:36:26 UTC] INSERT DATA
+[03-Feb-2020 09:37:42 UTC] INSERT DATA
+[03-Feb-2020 09:37:59 UTC] INSERT DATA
+[03-Feb-2020 09:38:36 UTC] INSERT DATA
+[03-Feb-2020 10:08:00 UTC] INSERT DATA
+[03-Feb-2020 10:15:46 UTC] INSERT DATA
+[03-Feb-2020 10:25:53 UTC] INSERT DATA
+[03-Feb-2020 10:26:06 UTC] INSERT DATA
+[03-Feb-2020 10:26:58 UTC] INSERT DATA
+[03-Feb-2020 10:27:10 UTC] INSERT DATA
+[03-Feb-2020 10:35:10 UTC] INSERT DATA
+[03-Feb-2020 10:35:34 UTC] INSERT DATA
+[03-Feb-2020 10:35:49 UTC] INSERT DATA
+[03-Feb-2020 10:39:51 UTC] INSERT DATA
+[03-Feb-2020 10:43:06 UTC] INSERT DATA
+[03-Feb-2020 10:43:18 UTC] INSERT DATA
+[03-Feb-2020 10:46:48 UTC] INSERT DATA
+[04-Feb-2020 00:16:33 UTC] INSERT DATA
+[04-Feb-2020 06:23:29 UTC] INSERT DATA
+[04-Feb-2020 06:23:42 UTC] INSERT DATA
+[04-Feb-2020 06:24:05 UTC] INSERT DATA
+[04-Feb-2020 06:59:35 UTC] INSERT DATA
+[04-Feb-2020 07:01:14 UTC] INSERT DATA
+[04-Feb-2020 07:03:40 UTC] INSERT DATA
+[04-Feb-2020 07:03:50 UTC] INSERT DATA
+[04-Feb-2020 07:04:02 UTC] INSERT DATA
+[04-Feb-2020 07:04:11 UTC] INSERT DATA
+[04-Feb-2020 09:41:02 UTC] INSERT DATA
+[04-Feb-2020 09:44:12 UTC] INSERT DATA
+[04-Feb-2020 09:45:10 UTC] INSERT DATA
+[04-Feb-2020 10:04:38 UTC] INSERT DATA
+[05-Feb-2020 08:29:08 UTC] INSERT DATA
+[05-Feb-2020 08:33:04 UTC] INSERT DATA
+[05-Feb-2020 08:33:18 UTC] INSERT DATA
+[05-Feb-2020 08:33:27 UTC] INSERT DATA
+[05-Feb-2020 08:33:58 UTC] INSERT DATA
+[05-Feb-2020 08:35:54 UTC] INSERT DATA
+[05-Feb-2020 08:36:23 UTC] INSERT DATA
+[05-Feb-2020 08:36:32 UTC] INSERT DATA
+[05-Feb-2020 08:36:45 UTC] INSERT DATA
+[06-Feb-2020 09:13:30 UTC] INSERT DATA
+[06-Feb-2020 09:21:30 UTC] INSERT DATA
+[06-Feb-2020 09:21:30 UTC] INSERT DATA
+[06-Feb-2020 09:27:40 UTC] INSERT DATA
+[06-Feb-2020 09:27:50 UTC] INSERT DATA
+[06-Feb-2020 09:28:43 UTC] INSERT DATA
+[06-Feb-2020 09:28:58 UTC] INSERT DATA
+[06-Feb-2020 09:29:12 UTC] INSERT DATA
+[06-Feb-2020 09:42:51 UTC] INSERT DATA
+[07-Feb-2020 08:04:14 UTC] INSERT DATA
+[07-Feb-2020 10:25:15 UTC] INSERT DATA
+[07-Feb-2020 10:25:38 UTC] INSERT DATA
+[07-Feb-2020 10:26:51 UTC] INSERT DATA
+[12-Feb-2020 04:34:57 UTC] INSERT DATA
+[12-Feb-2020 04:35:10 UTC] INSERT DATA
+[14-Feb-2020 16:20:42 UTC] INSERT DATA
+[14-Feb-2020 16:20:55 UTC] INSERT DATA
+[14-Feb-2020 16:21:03 UTC] INSERT DATA
+[14-Feb-2020 16:40:01 UTC] INSERT DATA
+[14-Feb-2020 18:07:38 UTC] INSERT DATA
+[14-Feb-2020 18:07:38 UTC] INSERT DATA
+[14-Feb-2020 18:07:44 UTC] INSERT DATA
+[14-Feb-2020 18:07:44 UTC] INSERT DATA
+[14-Feb-2020 18:38:09 UTC] INSERT DATA
+[14-Feb-2020 18:48:33 UTC] INSERT DATA
+[14-Feb-2020 18:48:41 UTC] INSERT DATA
+[14-Feb-2020 18:48:51 UTC] INSERT DATA
+[14-Feb-2020 19:17:57 UTC] INSERT DATA
+[14-Feb-2020 19:18:08 UTC] INSERT DATA
+[15-Feb-2020 04:26:52 UTC] INSERT DATA
+[15-Feb-2020 04:28:42 UTC] INSERT DATA
+[26-Feb-2020 15:49:50 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/masterc3/public_html/citra/application/modules/registrasi/views/detailDataDiriPasien.php on line 91
+[26-Feb-2020 15:49:50 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/masterc3/public_html/citra/application/modules/registrasi/views/detailDataDiriPasien.php on line 91
+[26-Feb-2020 15:49:57 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/masterc3/public_html/citra/application/modules/registrasi/views/detailDataDiriPasien.php on line 91
+[26-Feb-2020 15:49:58 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/masterc3/public_html/citra/application/modules/registrasi/views/detailDataDiriPasien.php on line 91
+[26-Feb-2020 15:56:10 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/masterc3/public_html/citra/application/modules/registrasi/views/detailDataDiriPasien.php on line 91
+[26-Feb-2020 15:56:10 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/masterc3/public_html/citra/application/modules/registrasi/views/detailDataDiriPasien.php on line 91
+[26-Feb-2020 16:18:35 UTC] INSERT DATA
+[26-Feb-2020 16:18:57 UTC] INSERT DATA
+[26-Feb-2020 16:19:23 UTC] INSERT DATA
+[27-Feb-2020 15:34:56 UTC] INSERT DATA
+[27-Feb-2020 15:50:19 UTC] INSERT DATA
+[27-Feb-2020 16:03:21 UTC] INSERT DATA
+[27-Feb-2020 16:04:17 UTC] INSERT DATA
+[27-Feb-2020 16:05:17 UTC] INSERT DATA
+[27-Feb-2020 16:14:38 UTC] INSERT DATA
+[27-Feb-2020 16:14:44 UTC] INSERT DATA
+[27-Feb-2020 16:16:29 UTC] INSERT DATA
+[27-Feb-2020 16:16:38 UTC] INSERT DATA
+[27-Feb-2020 16:16:45 UTC] INSERT DATA
+[27-Feb-2020 16:18:49 UTC] INSERT DATA
+[27-Feb-2020 17:07:47 UTC] INSERT DATA
+[28-Feb-2020 06:47:43 UTC] INSERT DATA
+[28-Feb-2020 06:47:47 UTC] INSERT DATA
+[28-Feb-2020 06:47:47 UTC] INSERT DATA
+[28-Feb-2020 06:48:19 UTC] INSERT DATA
+[28-Feb-2020 06:48:20 UTC] INSERT DATA
+[28-Feb-2020 06:48:47 UTC] INSERT DATA
+[28-Feb-2020 06:48:58 UTC] INSERT DATA
+[28-Feb-2020 06:50:49 UTC] INSERT DATA
+[28-Feb-2020 06:51:32 UTC] INSERT DATA
+[28-Feb-2020 09:54:35 UTC] INSERT DATA
+[28-Feb-2020 19:10:02 UTC] INSERT DATA
+[04-Mar-2020 07:39:33 UTC] INSERT DATA
+[04-Mar-2020 09:47:19 UTC] INSERT DATA
+[04-Mar-2020 15:00:58 UTC] INSERT DATA
+[04-Mar-2020 15:01:45 UTC] INSERT DATA
+[04-Mar-2020 15:04:05 UTC] INSERT DATA
+[04-Mar-2020 16:56:49 UTC] INSERT DATA
+[05-Mar-2020 04:08:51 UTC] INSERT DATA
+[05-Mar-2020 04:10:42 UTC] INSERT DATA
+[05-Mar-2020 04:11:21 UTC] INSERT DATA
+[05-Mar-2020 04:12:38 UTC] INSERT DATA
+[05-Mar-2020 04:13:09 UTC] INSERT DATA
+[05-Mar-2020 04:13:36 UTC] INSERT DATA
+[05-Mar-2020 04:45:40 UTC] INSERT DATA
+[05-Mar-2020 06:51:33 UTC] INSERT DATA
+[05-Mar-2020 07:20:14 UTC] INSERT DATA
+[05-Mar-2020 07:37:25 UTC] INSERT DATA
+[05-Mar-2020 07:55:46 UTC] INSERT DATA
+[05-Mar-2020 08:02:50 UTC] INSERT DATA
+[05-Mar-2020 08:30:55 UTC] INSERT DATA
+[06-Mar-2020 04:04:03 UTC] INSERT DATA
+[06-Mar-2020 04:04:12 UTC] INSERT DATA
+[06-Mar-2020 04:04:25 UTC] INSERT DATA
+[10-Mar-2020 07:03:42 UTC] INSERT DATA
+[10-Mar-2020 07:04:34 UTC] INSERT DATA
+[14-Mar-2020 03:45:59 UTC] PHP Fatal error:  require_once(): Failed opening required 'PHPExcel.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/masterc3/public_html/citra/application/libraries/Excel.php on line 5
+[14-Mar-2020 04:10:41 UTC] PHP Fatal error:  require_once(): Failed opening required 'PHPExcel.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/masterc3/public_html/citra/application/libraries/Excel.php on line 5
+[14-Mar-2020 05:54:23 UTC] PHP Fatal error:  require(): Failed opening required '/home/masterc3/public_html/citra/application/libraries/PHPExcel/Autoloader.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/masterc3/public_html/citra/application/libraries/PHPExcel.php on line 6
+[14-Mar-2020 06:01:33 UTC] PHP Fatal error:  require(): Failed opening required '/home/masterc3/public_html/citra/application/libraries/Autoloader.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/masterc3/public_html/citra/application/libraries/PHPExcel.php on line 7
+[16-Mar-2020 02:07:36 UTC] INSERT DATA
+[16-Mar-2020 04:15:03 UTC] INSERT DATA
+[16-Mar-2020 04:15:32 UTC] INSERT DATA
+[16-Mar-2020 04:16:12 UTC] INSERT DATA
+[16-Mar-2020 04:20:14 UTC] INSERT DATA
+[16-Mar-2020 06:37:48 UTC] INSERT DATA
+[16-Mar-2020 06:48:03 UTC] INSERT DATA
+[16-Mar-2020 16:41:16 UTC] INSERT DATA
+[18-Mar-2020 09:39:56 UTC] INSERT DATA
+[18-Mar-2020 22:31:15 UTC] INSERT DATA
+[18-Mar-2020 22:54:19 UTC] INSERT DATA
+[18-Mar-2020 23:22:36 UTC] INSERT DATA
+[18-Mar-2020 23:54:01 UTC] INSERT DATA
+[19-Mar-2020 00:35:05 UTC] INSERT DATA
+[19-Mar-2020 00:38:45 UTC] INSERT DATA
+[19-Mar-2020 02:22:17 UTC] INSERT DATA
+[19-Mar-2020 02:43:39 UTC] INSERT DATA
+[19-Mar-2020 02:44:01 UTC] INSERT DATA
+[19-Mar-2020 02:44:18 UTC] INSERT DATA
+[19-Mar-2020 02:44:34 UTC] INSERT DATA
+[19-Mar-2020 04:14:38 UTC] INSERT DATA
+[19-Mar-2020 04:16:28 UTC] INSERT DATA
+[19-Mar-2020 05:02:10 UTC] INSERT DATA
+[19-Mar-2020 05:03:44 UTC] INSERT DATA
+[19-Mar-2020 05:06:00 UTC] INSERT DATA
+[19-Mar-2020 05:06:29 UTC] INSERT DATA
+[19-Mar-2020 05:06:59 UTC] INSERT DATA
+[19-Mar-2020 05:07:07 UTC] INSERT DATA
+[19-Mar-2020 07:52:15 UTC] INSERT DATA
+[23-Mar-2020 05:34:02 UTC] INSERT DATA
+[23-Mar-2020 05:36:04 UTC] INSERT DATA
+[23-Mar-2020 08:26:16 UTC] INSERT DATA
+[23-Mar-2020 08:27:09 UTC] INSERT DATA
+[23-Mar-2020 08:27:24 UTC] INSERT DATA
+[23-Mar-2020 08:31:22 UTC] INSERT DATA
+[23-Mar-2020 08:42:07 UTC] INSERT DATA
+[24-Mar-2020 08:41:13 UTC] INSERT DATA
+[03-Apr-2020 17:49:34 UTC] INSERT DATA
+[03-Apr-2020 19:23:54 UTC] INSERT DATA
+[03-Apr-2020 19:24:07 UTC] INSERT DATA
+[03-Apr-2020 19:24:19 UTC] INSERT DATA
+[03-Apr-2020 19:24:29 UTC] INSERT DATA
+[03-Apr-2020 19:24:40 UTC] INSERT DATA
+[03-Apr-2020 19:24:55 UTC] INSERT DATA
+[03-Apr-2020 19:25:05 UTC] INSERT DATA
+[03-Apr-2020 19:25:19 UTC] INSERT DATA
+[03-Apr-2020 19:25:45 UTC] INSERT DATA
+[03-Apr-2020 19:26:00 UTC] INSERT DATA
+[05-Apr-2020 06:05:40 UTC] INSERT DATA
+[05-Apr-2020 06:05:52 UTC] INSERT DATA
+[05-Apr-2020 07:01:47 UTC] INSERT DATA
+[05-Apr-2020 11:18:32 UTC] INSERT DATA
+[05-Apr-2020 11:18:47 UTC] INSERT DATA
+[05-Apr-2020 11:19:00 UTC] INSERT DATA
+[05-Apr-2020 11:19:08 UTC] INSERT DATA
+[06-Apr-2020 18:55:33 UTC] INSERT DATA
+[06-Apr-2020 18:55:33 UTC] INSERT DATA
+[07-Apr-2020 08:46:25 UTC] INSERT DATA
+[07-Apr-2020 08:53:15 UTC] INSERT DATA
+[07-Apr-2020 08:54:19 UTC] INSERT DATA
+[07-Apr-2020 08:55:46 UTC] INSERT DATA
+[07-Apr-2020 08:58:54 UTC] INSERT DATA
+[07-Apr-2020 09:00:29 UTC] INSERT DATA
+[07-Apr-2020 09:01:46 UTC] INSERT DATA
+[07-Apr-2020 09:02:39 UTC] INSERT DATA
+[07-Apr-2020 14:45:49 UTC] INSERT DATA
+[09-Apr-2020 04:48:55 UTC] INSERT DATA
+[09-Apr-2020 04:49:36 UTC] INSERT DATA
+[09-Apr-2020 04:51:25 UTC] INSERT DATA
+[09-Apr-2020 04:51:32 UTC] INSERT DATA
+[09-Apr-2020 04:51:42 UTC] INSERT DATA
+[09-Apr-2020 04:52:00 UTC] INSERT DATA
+[10-Apr-2020 10:29:41 UTC] PHP Fatal error:  Cannot redeclare Master_model::get_data_master_dokter() in /home/masterc3/public_html/citra/application/modules/master/models/Master_model.php on line 90
+[10-Apr-2020 10:29:41 UTC] PHP Fatal error:  Cannot redeclare Master_model::get_data_master_dokter() in /home/masterc3/public_html/citra/application/modules/master/models/Master_model.php on line 90
+[10-Apr-2020 10:30:05 UTC] PHP Fatal error:  Cannot redeclare Master_model::get_data_master_dokter() in /home/masterc3/public_html/citra/application/modules/master/models/Master_model.php on line 90
+[10-Apr-2020 10:30:05 UTC] PHP Fatal error:  Cannot redeclare Master_model::get_data_master_dokter() in /home/masterc3/public_html/citra/application/modules/master/models/Master_model.php on line 90
+[10-Apr-2020 15:19:12 UTC] INSERT DATA
+[10-Apr-2020 15:23:03 UTC] INSERT DATA
+[10-Apr-2020 15:23:14 UTC] INSERT DATA
+[10-Apr-2020 15:25:28 UTC] INSERT DATA
+[10-Apr-2020 15:25:39 UTC] INSERT DATA
+[10-Apr-2020 15:29:16 UTC] INSERT DATA
+[10-Apr-2020 15:30:58 UTC] INSERT DATA
+[10-Apr-2020 15:34:26 UTC] INSERT DATA
+[10-Apr-2020 15:35:31 UTC] INSERT DATA
+[10-Apr-2020 15:36:21 UTC] INSERT DATA
+[10-Apr-2020 15:41:24 UTC] INSERT DATA
+[10-Apr-2020 16:08:41 UTC] INSERT DATA
+[10-Apr-2020 16:08:56 UTC] INSERT DATA
+[10-Apr-2020 16:12:03 UTC] INSERT DATA
+[11-Apr-2020 04:42:42 UTC] INSERT DATA
+[11-Apr-2020 04:43:35 UTC] INSERT DATA
+[11-Apr-2020 04:43:59 UTC] INSERT DATA
+[11-Apr-2020 04:44:16 UTC] INSERT DATA
+[11-Apr-2020 04:44:34 UTC] INSERT DATA
+[14-Apr-2020 04:48:15 UTC] PHP Fatal error:  Cannot redeclare Registrasi::get_modal_penunjang() in /home/masterc3/public_html/citra/application/modules/registrasi/controllers/Registrasi.php on line 1376
+[16-Apr-2020 07:16:49 UTC] INSERT DATA
+[16-Apr-2020 07:17:13 UTC] INSERT DATA
+[16-Apr-2020 07:17:31 UTC] INSERT DATA
+[16-Apr-2020 07:25:44 UTC] INSERT DATA
+[16-Apr-2020 07:26:08 UTC] INSERT DATA
+[16-Apr-2020 07:29:20 UTC] INSERT DATA
+[16-Apr-2020 07:29:38 UTC] INSERT DATA
+[16-Apr-2020 07:30:42 UTC] INSERT DATA
+[16-Apr-2020 07:31:00 UTC] INSERT DATA
+[16-Apr-2020 07:31:19 UTC] INSERT DATA
+[16-Apr-2020 07:31:34 UTC] INSERT DATA
+[16-Apr-2020 07:31:52 UTC] INSERT DATA
+[16-Apr-2020 07:32:11 UTC] INSERT DATA
+[16-Apr-2020 07:40:43 UTC] INSERT DATA
+[16-Apr-2020 07:40:58 UTC] INSERT DATA
+[16-Apr-2020 07:41:12 UTC] INSERT DATA
+[16-Apr-2020 07:41:29 UTC] INSERT DATA
+[16-Apr-2020 07:41:43 UTC] INSERT DATA
+[16-Apr-2020 07:42:06 UTC] INSERT DATA
+[16-Apr-2020 07:44:02 UTC] INSERT DATA
+[16-Apr-2020 07:44:22 UTC] INSERT DATA
+[16-Apr-2020 07:45:00 UTC] INSERT DATA
+[16-Apr-2020 08:05:13 UTC] INSERT DATA
+[16-Apr-2020 08:05:36 UTC] INSERT DATA
+[17-Apr-2020 03:51:11 UTC] INSERT DATA
+[29-Apr-2020 02:42:41 UTC] INSERT DATA
+[03-May-2020 16:45:04 UTC] INSERT DATA
+[03-May-2020 16:46:30 UTC] INSERT DATA
+[10-May-2020 06:06:00 UTC] INSERT DATA
+[10-May-2020 06:15:59 UTC] INSERT DATA
+[10-May-2020 09:58:14 UTC] INSERT DATA
+[10-May-2020 09:59:59 UTC] INSERT DATA
+[10-May-2020 15:49:23 UTC] INSERT DATA
+[17-May-2020 17:09:38 UTC] INSERT DATA
+[17-May-2020 17:10:38 UTC] INSERT DATA
+[17-May-2020 17:13:11 UTC] INSERT DATA
+[17-May-2020 17:14:02 UTC] INSERT DATA
+[17-May-2020 17:14:30 UTC] INSERT DATA
+[17-May-2020 17:18:07 UTC] INSERT DATA
+[17-May-2020 17:18:37 UTC] INSERT DATA
+[17-May-2020 17:37:31 UTC] INSERT DATA
+[17-May-2020 17:37:59 UTC] INSERT DATA
+[17-May-2020 17:38:36 UTC] INSERT DATA
+[17-May-2020 17:39:31 UTC] INSERT DATA
+[17-May-2020 17:41:43 UTC] INSERT DATA
+[17-May-2020 17:52:12 UTC] INSERT DATA
+[17-May-2020 17:52:32 UTC] INSERT DATA
+[17-May-2020 17:52:44 UTC] INSERT DATA
+[17-May-2020 17:52:59 UTC] INSERT DATA
+[17-May-2020 17:53:09 UTC] INSERT DATA
+[17-May-2020 17:53:39 UTC] INSERT DATA
+[17-May-2020 17:53:45 UTC] INSERT DATA
+[17-May-2020 17:54:00 UTC] INSERT DATA
+[17-May-2020 17:56:22 UTC] INSERT DATA
+[17-May-2020 17:56:29 UTC] INSERT DATA
+[17-May-2020 18:00:04 UTC] INSERT DATA
+[17-May-2020 18:00:21 UTC] INSERT DATA
+[17-May-2020 18:06:11 UTC] INSERT DATA
+[17-May-2020 18:06:19 UTC] INSERT DATA
+[17-May-2020 18:07:41 UTC] INSERT DATA
+[17-May-2020 18:07:48 UTC] INSERT DATA
+[17-May-2020 18:08:53 UTC] INSERT DATA
+[17-May-2020 18:08:58 UTC] INSERT DATA
+[17-May-2020 18:09:53 UTC] INSERT DATA
+[17-May-2020 18:10:08 UTC] INSERT DATA
+[17-May-2020 18:10:37 UTC] INSERT DATA
+[17-May-2020 18:11:04 UTC] INSERT DATA
+[17-May-2020 18:15:58 UTC] INSERT DATA
+[17-May-2020 18:18:12 UTC] INSERT DATA
+[17-May-2020 18:18:35 UTC] INSERT DATA
+[17-May-2020 18:18:52 UTC] INSERT DATA
+[17-May-2020 18:23:46 UTC] INSERT DATA
+[17-May-2020 18:24:19 UTC] INSERT DATA
+[17-May-2020 18:33:06 UTC] INSERT DATA
+[17-May-2020 18:34:46 UTC] INSERT DATA
+[17-May-2020 18:37:06 UTC] INSERT DATA
+[17-May-2020 18:37:12 UTC] INSERT DATA
+[17-May-2020 18:40:31 UTC] INSERT DATA
+[17-May-2020 18:42:41 UTC] INSERT DATA
+[17-May-2020 18:43:21 UTC] INSERT DATA
+[17-May-2020 18:46:26 UTC] INSERT DATA
+[17-May-2020 18:48:21 UTC] INSERT DATA
+[17-May-2020 18:49:20 UTC] INSERT DATA
+[17-May-2020 18:49:45 UTC] INSERT DATA
+[17-May-2020 18:50:04 UTC] INSERT DATA
+[17-May-2020 18:50:55 UTC] INSERT DATA
+[17-May-2020 18:51:23 UTC] INSERT DATA
+[17-May-2020 18:52:10 UTC] INSERT DATA
+[17-May-2020 18:54:22 UTC] INSERT DATA
+[17-May-2020 18:59:26 UTC] INSERT DATA
+[17-May-2020 19:03:03 UTC] INSERT DATA
+[17-May-2020 19:03:38 UTC] INSERT DATA
+[17-May-2020 19:06:28 UTC] INSERT DATA
+[17-May-2020 19:08:51 UTC] INSERT DATA
+[17-May-2020 19:10:40 UTC] INSERT DATA
+[17-May-2020 19:11:18 UTC] INSERT DATA
+[17-May-2020 19:12:18 UTC] INSERT DATA
+[17-May-2020 19:15:50 UTC] INSERT DATA
+[17-May-2020 19:20:21 UTC] INSERT DATA
+[17-May-2020 19:28:16 UTC] INSERT DATA
+[17-May-2020 19:31:06 UTC] INSERT DATA
+[17-May-2020 19:35:18 UTC] INSERT DATA
+[17-May-2020 19:35:26 UTC] INSERT DATA
+[17-May-2020 19:42:19 UTC] INSERT DATA
+[17-May-2020 19:42:28 UTC] INSERT DATA
+[17-May-2020 19:50:19 UTC] INSERT DATA
+[17-May-2020 19:50:26 UTC] INSERT DATA
+[17-May-2020 19:50:57 UTC] INSERT DATA
+[17-May-2020 19:51:22 UTC] INSERT DATA
+[17-May-2020 19:51:37 UTC] INSERT DATA
+[17-May-2020 19:56:55 UTC] INSERT DATA
+[18-May-2020 01:20:16 UTC] INSERT DATA
+[28-May-2020 02:40:56 UTC] INSERT DATA
+[28-May-2020 02:41:33 UTC] INSERT DATA
+[16-Jun-2020 08:16:35 UTC] INSERT DATA
+[16-Jun-2020 08:16:48 UTC] INSERT DATA
+[16-Jun-2020 08:17:29 UTC] INSERT DATA
+[25-Jun-2020 08:40:28 UTC] INSERT DATA
+[25-Jun-2020 08:42:02 UTC] INSERT DATA
+[25-Jun-2020 08:42:49 UTC] INSERT DATA
+[25-Jun-2020 08:43:16 UTC] INSERT DATA
+[25-Jun-2020 08:45:33 UTC] INSERT DATA
+[25-Jun-2020 15:59:03 UTC] INSERT DATA
+[25-Jun-2020 16:09:07 UTC] INSERT DATA
+[25-Jun-2020 16:19:53 UTC] INSERT DATA
+[26-Jun-2020 07:58:00 UTC] INSERT DATA
+[26-Jun-2020 08:15:23 UTC] INSERT DATA
+[26-Jun-2020 09:53:06 UTC] INSERT DATA
+[26-Jun-2020 10:00:41 UTC] INSERT DATA
+[29-Jun-2020 04:10:02 UTC] INSERT DATA
+[29-Jun-2020 04:10:11 UTC] INSERT DATA
+[29-Jun-2020 04:10:18 UTC] INSERT DATA
+[29-Jun-2020 04:10:58 UTC] INSERT DATA
+[29-Jun-2020 04:11:42 UTC] INSERT DATA
+[29-Jun-2020 04:12:27 UTC] INSERT DATA
+[29-Jun-2020 04:23:00 UTC] INSERT DATA
+[29-Jun-2020 04:30:47 UTC] INSERT DATA
+[29-Jun-2020 04:40:40 UTC] INSERT DATA
+[18-Jan-2022 02:06:28 UTC] INSERT DATA
+[18-Jan-2022 02:06:36 UTC] INSERT DATA
+[18-Jan-2022 02:06:42 UTC] INSERT DATA
+[20-Jan-2022 01:26:18 UTC] INSERT DATA
+[20-Jan-2022 01:31:52 UTC] INSERT DATA
+[24-Jan-2022 07:21:41 UTC] INSERT DATA
+[24-Jan-2022 07:22:07 UTC] INSERT DATA
+[24-Jan-2022 07:22:20 UTC] INSERT DATA
+[24-Jan-2022 07:22:53 UTC] INSERT DATA
+[24-Jan-2022 07:37:42 UTC] INSERT DATA
+[24-Jan-2022 07:39:36 UTC] INSERT DATA
+[24-Jan-2022 07:42:33 UTC] INSERT DATA
+[24-Jan-2022 07:43:24 UTC] INSERT DATA
+[24-Jan-2022 07:44:39 UTC] INSERT DATA
+[24-Jan-2022 07:47:02 UTC] INSERT DATA
+[24-Jan-2022 07:48:54 UTC] INSERT DATA
+[24-Jan-2022 07:52:08 UTC] INSERT DATA
+[24-Jan-2022 08:05:11 UTC] INSERT DATA
+[24-Jan-2022 08:12:09 UTC] INSERT DATA
+[24-Jan-2022 08:21:33 UTC] INSERT DATA
+[24-Jan-2022 08:23:08 UTC] INSERT DATA
+[24-Jan-2022 08:23:29 UTC] INSERT DATA
+[24-Jan-2022 08:25:17 UTC] INSERT DATA
+[27-Jan-2022 09:25:11 UTC] INSERT DATA
+[27-Jan-2022 09:25:35 UTC] INSERT DATA
+[28-Jan-2022 03:05:41 UTC] INSERT DATA
+[01-Feb-2022 05:35:05 UTC] INSERT DATA
+[01-Feb-2022 05:36:29 UTC] INSERT DATA
+[01-Feb-2022 05:36:50 UTC] INSERT DATA
+[01-Feb-2022 05:37:30 UTC] INSERT DATA
+[02-Feb-2022 02:08:41 UTC] INSERT DATA
+[02-Feb-2022 02:12:42 UTC] INSERT DATA
+[02-Feb-2022 02:15:24 UTC] INSERT DATA
+[02-Feb-2022 02:16:42 UTC] INSERT DATA
+[02-Feb-2022 02:19:21 UTC] INSERT DATA
+[02-Feb-2022 02:19:57 UTC] INSERT DATA
+[02-Feb-2022 02:24:17 UTC] INSERT DATA
+[02-Feb-2022 02:29:59 UTC] INSERT DATA
+[02-Feb-2022 02:31:22 UTC] INSERT DATA
+[02-Feb-2022 02:34:27 UTC] INSERT DATA
+[02-Feb-2022 02:34:36 UTC] INSERT DATA
+[02-Feb-2022 02:36:30 UTC] INSERT DATA
+[02-Feb-2022 03:02:55 UTC] INSERT DATA
+[02-Feb-2022 03:04:04 UTC] INSERT DATA
+[02-Feb-2022 03:12:43 UTC] INSERT DATA
+[02-Feb-2022 03:13:11 UTC] INSERT DATA
+[02-Feb-2022 04:39:13 UTC] INSERT DATA
+[02-Feb-2022 04:39:30 UTC] INSERT DATA
+[02-Feb-2022 04:43:03 UTC] INSERT DATA
+[02-Feb-2022 04:44:24 UTC] INSERT DATA
+[02-Feb-2022 04:59:34 UTC] INSERT DATA
+[02-Feb-2022 07:56:09 UTC] INSERT DATA

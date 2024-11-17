@@ -1,0 +1,3 @@
+ERROR - 2020-02-14 18:42:41 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'null,nama_pelayanan,nama_pemeriksaan,nilai_min,nilai_max,nilai_text,null from ma' at line 2 - Invalid query: insert into trx_laboratorium
+								 select null,now(),1,now(),1,'ACTIVE',,null,nama_pelayanan,nama_pemeriksaan,nilai_min,nilai_max,nilai_text,null from master_pemeriksaan;
+ERROR - 2020-02-14 19:10:35 --> Query error: Column 'nama_paket' cannot be null - Invalid query: INSERT INTO `master_paket_medcheck_header` (`nama_paket`, `harga_paket`, `status`) VALUES (NULL, NULL, 'ACTIVE')
