@@ -46,3 +46,19 @@ ERROR - 2024-11-17 09:50:04 --> Query error: Unknown column 'nilai_min_wanita' i
 									   FROM trx_laboratorium
 									   WHERE id_pelayanan = 8813 AND id = 226366;
 ERROR - 2024-11-17 09:50:04 --> Severity: Error --> Call to a member function result_array() on boolean C:\xampp56\htdocs\citra-main\application\modules\registrasi\models\Registrasi_model.php 1910
+ERROR - 2024-11-17 10:42:16 --> 404 Page Not Found: /index
+ERROR - 2024-11-17 12:27:13 --> 404 Page Not Found: /index
+ERROR - 2024-11-17 12:27:33 --> 404 Page Not Found: ../modules/registrasi/controllers/Registrasi/getpenunjangallchartcompare
+ERROR - 2024-11-17 12:31:28 --> 404 Page Not Found: /index
+ERROR - 2024-11-17 13:39:01 --> 404 Page Not Found: /index
+ERROR - 2024-11-17 13:40:28 --> 404 Page Not Found: /index
+ERROR - 2024-11-17 13:53:20 --> 404 Page Not Found: /index
+ERROR - 2024-11-17 14:16:44 --> 404 Page Not Found: /index
+ERROR - 2024-11-17 14:28:37 --> 404 Page Not Found: /index
+ERROR - 2024-11-17 14:28:46 --> 404 Page Not Found: /index
+ERROR - 2024-11-17 14:28:46 --> 404 Page Not Found: /index
+ERROR - 2024-11-17 14:31:12 --> 404 Page Not Found: /index
+ERROR - 2024-11-17 14:32:05 --> 404 Page Not Found: /index
+ERROR - 2024-11-17 14:32:05 --> 404 Page Not Found: /index
+ERROR - 2024-11-17 14:32:21 --> 404 Page Not Found: /index
+ERROR - 2024-11-17 14:32:21 --> 404 Page Not Found: /index

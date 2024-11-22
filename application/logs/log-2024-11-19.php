@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-11-19 02:24:44 --> 404 Page Not Found: /index
+ERROR - 2024-11-19 02:37:06 --> 404 Page Not Found: /index
+ERROR - 2024-11-19 02:55:01 --> 404 Page Not Found: /index
+ERROR - 2024-11-19 02:55:02 --> 404 Page Not Found: /index
+ERROR - 2024-11-19 07:40:06 --> 404 Page Not Found: /index
+ERROR - 2024-11-19 09:19:59 --> 404 Page Not Found: /index
+ERROR - 2024-11-19 09:22:09 --> 404 Page Not Found: /index
+ERROR - 2024-11-19 09:22:28 --> 404 Page Not Found: /index
+ERROR - 2024-11-19 09:22:29 --> 404 Page Not Found: /index
+ERROR - 2024-11-19 09:22:46 --> 404 Page Not Found: /index
+ERROR - 2024-11-19 09:22:46 --> 404 Page Not Found: /index
+ERROR - 2024-11-19 09:22:55 --> 404 Page Not Found: /index
+ERROR - 2024-11-19 09:22:55 --> 404 Page Not Found: /index
+ERROR - 2024-11-19 09:22:58 --> 404 Page Not Found: /index
+ERROR - 2024-11-19 09:22:58 --> 404 Page Not Found: /index
+ERROR - 2024-11-19 09:23:36 --> 404 Page Not Found: /index
+ERROR - 2024-11-19 09:23:37 --> 404 Page Not Found: /index
+ERROR - 2024-11-19 09:23:50 --> 404 Page Not Found: /index
+ERROR - 2024-11-19 09:23:50 --> 404 Page Not Found: /index
+ERROR - 2024-11-19 09:24:19 --> 404 Page Not Found: /index
+ERROR - 2024-11-19 09:24:43 --> 404 Page Not Found: /index
+ERROR - 2024-11-19 09:24:43 --> 404 Page Not Found: /index
+ERROR - 2024-11-19 09:26:59 --> 404 Page Not Found: /index
+ERROR - 2024-11-19 09:30:23 --> 404 Page Not Found: /index
+ERROR - 2024-11-19 09:44:34 --> 404 Page Not Found: /index
+ERROR - 2024-11-19 12:26:06 --> 404 Page Not Found: /index
+ERROR - 2024-11-19 15:49:58 --> 404 Page Not Found: /index
+ERROR - 2024-11-19 15:51:00 --> 404 Page Not Found: ../modules/registrasi/controllers/Registrasi/getpenunjangallchartcompare
+ERROR - 2024-11-19 15:56:39 --> 404 Page Not Found: ../modules/registrasi/controllers/Registrasi/getpenunjangallchartcompare
+ERROR - 2024-11-19 16:00:11 --> 404 Page Not Found: ../modules/registrasi/controllers/Registrasi/getpenunjangallchartcompare
+ERROR - 2024-11-19 16:01:10 --> 404 Page Not Found: ../modules/registrasi/controllers/Registrasi/getpenunjangallchartcompare
+ERROR - 2024-11-19 16:02:01 --> 404 Page Not Found: ../modules/registrasi/controllers/Registrasi/getpenunjangallchartcompare
+ERROR - 2024-11-19 17:04:29 --> 404 Page Not Found: /index
+ERROR - 2024-11-19 17:14:37 --> 404 Page Not Found: /index
+ERROR - 2024-11-19 17:20:44 --> 404 Page Not Found: /index

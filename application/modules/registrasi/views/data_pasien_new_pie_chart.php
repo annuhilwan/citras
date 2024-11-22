@@ -1,287 +1,487 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Medical Checkup Report</title>
 
-    <!-- Styles -->
-    <style>
-        h1 {
-            text-align: center;
-        }
+    
+ 
+<style> 
+h1 { 
+    text-align: center; 
+} 
+h2{
+    visibility:hidden;
+}
+.div-subtitle {
+    text-align: center;
+    margin-top: -15px;
+}
 
-        .div-subtitle {
-            text-align: center;
-            margin-top: -15px;
-        }
+.font-subtitle {
+    font-size: 12px;
+    font-style: italic;
+    font-weight: bold;
+}
 
-        .font-subtitle {
-            font-size: 12px;
-            font-style: italic;
-            font-weight: bold;
-        }
 
-        /* Custom print styles */
-        @media print {
-            body {
-                margin: 0;
-                padding: 0;
-                font-family: Arial, sans-serif;
-            }
-
-            /* Remove hyperlinks */
-            a {
-                color: black !important;
-                text-decoration: none !important; /* Removes underline */
-            }
-
-            /* Hide specific elements during print */
-            .content-wrapper, .box-body {
-                display: block;
-            }
-
-            .btn {
-                display: none; /* Hide buttons during print */
-            }
-
-            .box-tools, .thead-light, .div-subtitle, .font-subtitle, .chart-title {
-                display: none; /* Hide titles and non-relevant elements during print */
-            }
-
-            /* Hide the $diagnosa_top_ten table during print */
-            .diagnosa-top-ten-table {
+ /* Hide specific elements during print */
+ @media print {
+            .btn, .box-header {
                 display: none;
             }
+            
+          /*  #    {
+            width: 100%;  
+            height: auto; 
+            max-width: 100%; 
+            margin: 0 auto; 
+            text-align: left;
+        } /* Left-align the chart during printing */
 
-            /* Ensure chart fits well during print */
-            #chart_fit_div, #chart_diagnosa_div, #chart_div, #chart_top_ten, #chart_penunjang_all {
-                width: 100% !important;
-                height: auto !important;
-                page-break-inside: avoid; /* Prevent charts from being cut off */
+        #chart_diagnosa_div {
+            margin-top:-10px;
+            margin-left:-180px;
+            
+        }
+
+        .table{
+            visibility: hidden;
+        }
+
+        /* If you want to control the layout of the chart container, you can add margins or other styles */
+        body {
+            margin: 0; /* Remove body margin to ensure content fits the page */
+        }
+
+            h2 {
+              text-align:left;
+                visibility: visible; /* Visible when printing */
             }
 
-            /* Remove unnecessary page breaks between charts */
-            #chart_fit_div,
-            #chart_diagnosa_div,
-            #chart_div,
-            #chart_top_ten,
-            #chart_penunjang_all {
-                page-break-before: auto; /* Removed redundant page-break-before: always */
-            }
-
-            .page-break {
-                page-break-before: always;
-            }
-
-            /* Reduce margins and scaling for better fitting */
-            @page {
-                margin: 10mm; /* Reduce margin to prevent unnecessary space */
-            }
-
-            /* Optional: Adjust chart size for better scaling */
-            #chart_fit_div,
-            #chart_diagnosa_div,
-            #chart_div,
-            #chart_top_ten,
-            #chart_penunjang_all {
-                height: 500px !important; /* Adjust height to fit content */
+            .print-button{
+                visibility:hidden;
             }
 
             .content-wrapper {
-                padding-bottom: 20px;
+                margin: 0;
+                padding: 0;
+            }
+
+            #print-container {
+                page-break-inside: avoid; /* Prevent page breaks inside the container */
+            }
+
+            .chart-title-text {
+                display: inline-block;
+                font-size: 14px;
+                font-weight: bold;
+            }
+            
+          
+            .div-subtitle {
+                font-size: 12px;
+                font-style: italic;
+                text-align:center;
+            }
+
+            /* Force page breaks after each chart section */
+            .chart-section {
+                page-break-before: always; /* Start a new page for each chart section */
+                margin-bottom: 0px;
+            }
+
+            #print-container {
+                page-break-inside: avoid; /* Prevent page breaks inside the container */
+            }
+
+            /* Remove hyperlinks inside h1 during print */
+            h1 a {
+                text-decoration: none;
+                color: inherit; /* Optional: Keeps the original text color */
+                visibility: hidden;
+            }
+            #chart_top_ten{
+                margin-left:-150px;
+                margin-top:-700px;
+                margin-bottom:600px;
+            }
+            #chart_div{
+                margin-bottom:700px;
+            }
+
+            #chart_penunjang_all{
+                margin-left:-250px;
+                margin-bottom:500px;
+            }
+
+            /* Reducing chart sizes specifically for printing */
+            #chart_div, #chart_top_ten, .chart-penunjang-all {
+                width: 100% !important;  /* Use full width of the page */
+                height: 300px !important; /* Reduce the height to make charts smaller */
+            }
+
+            /* Reduce font size of subtitles */
+            .div-subtitle {
+                font-size: 10px !important;
+                font-style: italic;
+            }
+
+            /* Adjust chart titles and descriptions */
+            h1 {
+                font-size: 16px !important;
+            }
+            
+            .judulcetak{
+              margin-top:-10px;
+
+            }
+
+            .font-subtitle {
+                font-size: 10px !important;
+                font-style: italic;
+                text-align:center;
+            }
+
+            /* Align all charts to the left when printing */
+            #print-container {
+                text-align: left !important; /* Ensure left alignment */
+            }
+
+	#chart_fit_div {
+        margin-left:-150px;
+        margin-bottom:1800px;
+    }    
+
+            /* Ensure each chart container is also left-aligned */
+            .chart-section {
+                text-align: left !important;
+                margin-left: 0 !important;
+                padding-left: 0 !important;
+            }
+
+            /* Additional tweaks for chart section layout */
+            .chart-section h1, .chart-section h2, .div-subtitle {
+                text-align: left !important; /* Left-align headings and subtitles */
+            }
+
+            /* Optional: Reset any large margins for charts */
+            .chart-section div {
+                margin: 0;
+                padding: 0;
             }
         }
-    </style>
+</style> 
 
-    <!-- Google Charts and External Scripts -->
-    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.4.1/html2canvas.min.js"></script>
-</head>
-<body>
-
+ 
 <div class="content-wrapper">
-    <section class="content">
-        <div class="row">
-            <div class="col-xs-12">
-                <div class="box box-success">
-                    <div class="box-header">
-                        <a class="btn btn-primary btn-sm" href="<?php echo site_url('/registrasi/list_data_pelayanan_perusahaan_by_search/'); ?>" role="button">Back</a><br /><br />
-                        <div class="box-tools">
-                            <a class="btn btn-primary btn-sm" href="<?php echo site_url('/registrasi/list_data_pasien_bar_chart/'.$data['id']); ?>" role="button">Compare</a>
-                        </div>
-                    </div>
-                    <div class="box-body">
-                        <!-- Print Button -->
-                        <button class="btn btn-warning btn-sm" onclick="window.print()">Print</button><br /><br />
+ <section class="content">
+ <div class="row">
+ <div class="col-xs-12">
+  <div class="box box-success">
+    <div class="box-header">
+        <a class="btn btn-primary btn-sm" href="<?php echo site_url('/registrasi/list_data_pelayanan_perusahaan_by_search/'); ?>" role="button">Back</a>
+        <button class="btn btn-primary btn-sm print-button" onclick="window.print()">Print</button>
+       <div class="box-tools">
+       <a class="btn btn-primary btn-sm" href="<?php echo site_url('/registrasi/list_data_pasien_bar_chart/'.$data['id']); ?>" role="button">Compare</a>
+       </div>
+    </div>
+   <div class="box-body"> 
+     <h1><a href="<?php echo site_url('/registrasi/list_data_detail_chart_kategori_medcheck/'.$data['id']); ?>" target="_blank" class="blue">Kategori Kesehatan Medical Checkup</a></h1> 
+     <h2>Kategori Kesehatan Medical Checkup</h2>
+     <div class="div-subtitle"><span class="font-subtitle">Medical Checkup Health Category</span></div>
+	 
+	<div id="chart_fit_div"></div>    
+    
+	<h1><a href="<?php echo site_url('/registrasi/list_data_detail_chart_diagnosa_perbagian/'.$data['id']); ?>" target="_blank" class="blue">Jumlah Temuan Diagnosa</a></h1> 
+	<h2>Jumlah Temuan Diagnosa</h2>
+    <div class="div-subtitle"><span class="font-subtitle">Number of Diagnostic Finding</span></div>
+	<div id="chart_diagnosa_div"></div>  
+	
+	<h1><a href="<?php echo site_url('/registrasi/list_data_detail_chart_diagnosa_perbagian/'.$data['id']); ?>" target="_blank" class="blue">Diagnosa 10 Terbanyak</a></h1> 
+	<h2>Diagnosa 10 Terbanyak</h2>
+    <div class="div-subtitle"><span class="font-subtitle">Most 10 Diagnostics</span></div>
 
-                        <!-- Chart 1 Title Hidden in Print -->
-                        <h1 class="chart-title"><a href="<?php echo site_url('/registrasi/list_data_detail_chart_kategori_medcheck/'.$data['id']); ?>" target="_blank" class="blue">Kategori Kesehatan Medical Checkup</a></h1>
-                        <div class="div-subtitle"><span class="font-subtitle">Medical Checkup Health Category</span></div>
-                        <div id="chart_fit_div"></div>
-
-                        <!-- Chart 2 Title Hidden in Print -->
-                        <h1 class="chart-title"><a href="<?php echo site_url('/registrasi/list_data_detail_chart_diagnosa_perbagian/'.$data['id']); ?>" target="_blank" class="blue">Jumlah Temuan Diagnosa</a></h1>
-                        <div class="div-subtitle"><span class="font-subtitle">Number of Diagnostic Finding</span></div>
-                        <div id="chart_diagnosa_div"></div>
-
-                        <!-- Chart 3 Title Hidden in Print -->
-                        <h1 class="chart-title"><a href="<?php echo site_url('/registrasi/list_data_detail_chart_diagnosa_perbagian/'.$data['id']); ?>" target="_blank" class="blue">Diagnosa 10 Terbanyak</a></h1>
-                        <div class="div-subtitle"><span class="font-subtitle">Most 10 Diagnostics</span></div>
-
-                        <table class="table diagnosa-top-ten-table">
-                            <thead class="thead-light">
-                                <tr>
-                                    <th scope="col">Urutan</th>
-                                    <th scope="col">Nama Diagnosa</th>
-                                    <th scope="col">Jumlah Temuan</th>
-                                    <th scope="col">Handle</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <?php
-                                    $first = true;
-                                    $no = 1;
-                                    foreach ((Array) $diagnosa_top_ten as $key => $val) { 
-                                ?>
-                                    <tr>
-                                        <th scope="row"><?php echo $no ; ?></th>
-                                        <td><?php echo $val['hasil_resume'] ; ?></td>
-                                        <td><?php echo $val['jumlah'] ; ?></td>
-                                        <td><a href="<?php echo site_url('/registrasi/list_grafik_per_bagian/'.$data['id'].'/'.urlencode($val['hasil_resume'])); ?>" target="_blank" class="blue">Lihat Grafik</a></td>
-                                    </tr>
-                                <?php 
-                                    $no++;
-                                    }
-                                ?>
-                            </tbody>
-                        </table>
-
-                        <div id="chart_top_ten"></div>
-
-                        <!-- Gender Chart Title Hidden in Print -->
-                        <h1 class="chart-title"><a href="<?php echo site_url('/registrasi/list_data_detail_chart_jenis_kelamin/'.$data['id']); ?>" target="_blank" class="blue">Penyebaran Data Kelamin</a></h1>
-                        <div class="div-subtitle"><span class="font-subtitle">Spread of Gender Data</span></div>
-                        <div id="chart_div"></div>
-
-                        <?php 
-                            foreach ((Array) $penunjang as $keyp => $valp) { 
-                        ?>
-                            <!-- Supporting Data Chart Title Hidden in Print -->
-                            <h1 class="chart-title"><a href="<?php echo site_url('/registrasi/list_data_detail_penunjang_medcheck_klik/'.$data['id'].'/'.$valp->jenis_pemeriksaan); ?>" target="_blank" class="blue">
-                                Data Penunjang <?php echo $valp->jenis_pemeriksaan; ?>
-                            </a></h1>
-                            <div class="div-subtitle"><span class="font-subtitle"><?php echo $valp->jenis_pemeriksaan; ?> Supporting Data</span></div>
-                            <div id="chart_penunjang_all['<?php echo $valp->jenis_pemeriksaan; ?>']"></div>
-                        <?php
-                            }
-                        ?>
-                    </div>
-                </div>
-            </div>
+    <div class="table">
+<table class="table">
+  
+  <thead class="thead-light">
+    <tr>
+      <th scope="col">Urutan</th>
+      <th scope="col">Nama Diagnosa</th>
+      <th scope="col">Jumlah Temuan</th>
+      <th scope="col">Handle</th>
+    </tr>
+  </thead>
+  <tbody>
+  <?php
+		$first = true;
+		$no =1;
+		foreach ((Array) $diagnosa_top_ten AS $key => $val) { 
+		?>
+    <tr>
+      <th scope="row"><?php echo $no ; ?></th>
+      <td><?php echo $val['hasil_resume'] ; ?></td>
+      <td><?php echo $val['jumlah'] ; ?></td>
+      <td><a href="<?php echo site_url('/registrasi/list_grafik_per_bagian/'.$data['id'].'/'.urlencode($val['hasil_resume'])); ?>" target="_blank" class="blue">Lihat Grafik</a></td>
+    </tr>
+   <?php 
+	$no++;
+			}
+		?>
+  </tbody>
+</table>
         </div>
-    </section>
-</div>
+	<div id="chart_top_ten"></div> 
+	<!--
+	<h1><a href="<?php echo site_url('/registrasi/list_data_detail_chart_faringitis/'.$data['id']); ?>" target="_blank" class="blue">Jumlah Temuan Faringitis per Bagian</a></h1> 
+	<div id="chart_faringitis_div"></div> 
+	-->
+	
+	<h1><a href="<?php echo site_url('/registrasi/list_data_detail_chart_jenis_kelamin/'.$data['id']); ?>" target="_blank" class="blue">Penyebaran Data Kelamin</a></h1> 
+	<h2>Penyebaran Kelamin</h2>
+    <div class="div-subtitle"><span class="font-subtitle">Spread of Gender Data</span></div>
+    <div id="chart_div"></div> 
+    <!--<h1><a href="<?php echo site_url('/registrasi/list_data_detail_penunjang_medcheck/'.$data['id']); ?>" target="_blank" class="blue">Data Penunjang</a></h1> -->
+    <!--<div id="chart_penunjang_div"></div>-->
+    <?php 
+        foreach ((Array) $penunjang AS $keyp => $valp) { 
+    ?>
+        <h1><a href="<?php echo site_url('/registrasi/list_data_detail_penunjang_medcheck_klik/'.$data['id'].'/'.$valp->jenis_pemeriksaan); ?>" target="_blank" class="blue">
+            Data Penunjang <?php echo $valp->jenis_pemeriksaan; ?>
+        </a></h1>
+        <h2>Data Penunjang <?php echo $valp->jenis_pemeriksaan; ?></h2>
+        <div class="div-subtitle"><span class="font-subtitle"><?php echo $valp->jenis_pemeriksaan; ?> Supporting Data</span></div>
+        <div id="chart_penunjang_all['<?php echo $valp->jenis_pemeriksaan; ?>']"></div>
+    <?php
+        }
+    ?>
+	
 
-<!-- JavaScript -->
-<script type="text/javascript">
-    google.charts.load('current', {'packages':['corechart']});
-    google.charts.setOnLoadCallback(drawChart);
-    google.charts.setOnLoadCallback(fitOrNot);
-    google.charts.setOnLoadCallback(diagnosa);
-    google.charts.setOnLoadCallback(top10);
-    google.charts.setOnLoadCallback(penunjangall);
-    google.charts.setOnLoadCallback(penunjang);
+    
+</div> 
+</div> 
+</div> 
+</div> 
+</section> 
+</div> 
 
-    function drawChart() {
-        var jsonData = $.ajax({
-            url: "<?php echo base_url() . 'registrasi/getdatajeniskelamin/'.$data['id'] ?>",
-            dataType: "json",
-            async: false
-        }).responseText;
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script> 
+	
+	
+	
+  
+  
+    <script type="text/javascript"> 
+     
+    // Load the Visualization API and the piechart package. 
+    google.charts.load('current', {'packages':['corechart']}); 
+       
+    // Set a callback to run when the Google Visualization API is loaded. 
+    google.charts.setOnLoadCallback(drawChart); 
+    google.charts.setOnLoadCallback(fitOrNot); 
+    google.charts.setOnLoadCallback(diagnosa); 
+    google.charts.setOnLoadCallback(top10); 
+    //	google.charts.setOnLoadCallback(faringitis); 
+    // google.charts.setOnLoadCallback(penunjang); 
+    google.charts.setOnLoadCallback(penunjangall); 
+	
+	 function selectHandler() {
+      var selectedItem = chart.getSelection()[0];
+      if (selectedItem) {
+        var topping = data.getValue(selectedItem.row, 0);
+        alert('The user selected ' + topping);
+      }
+    }
+       
+    function drawChart() { 
+      var jsonData = $.ajax({ 
+          url: "<?php echo base_url() . 'registrasi/getdatajeniskelamin/'.$data['id'] ?>", 
+          dataType: "json", 
+          async: false 
+          }).responseText; 
+           
+      // Create our data table out of JSON data loaded from server. 
+      var data = new google.visualization.DataTable(jsonData); 
+ 
+      // Instantiate and draw our chart, passing in some options. 
+      var chart = new google.visualization.PieChart(document.getElementById('chart_div')); 
+	   google.visualization.events.addListener(chart, 'select', function() {
+       // grab a few details before redirecting
 
-        var data = new google.visualization.DataTable(jsonData);
-        var chart = new google.visualization.PieChart(document.getElementById('chart_div'));
-        chart.draw(data, {width: 900, height: 500, pieSliceText: 'value'});
+      //alert(data.getValue(chart.getSelection()[0].row, 0));
+      //location.href = 'http://www.google.com?row=' + row + '&col=' + col + '&year=' + year;
+	  
+	  var selectedItem = chart.getSelection()[0];
+      if (selectedItem) {
+        var topping = data.getValue(selectedItem.row, 0);
+        //alert('The user selected ' + topping);
+		//window.open('https://www.google.com/search?q= '+ <?php echo $data['id'] ?>);
+			window.open('/registrasi/list_data_detail_chart_jenis_kelamin_klik/'+ <?php echo $data['id'] ?> + '/' + topping );
+      } 
+	 
+     });
+      chart.draw(data, {width: 900, height: 500,pieSliceText: 'value'}); 
+    } 
+	
+	
+	function fitOrNot() { 
+      var jsonData = $.ajax({ 
+          url: "<?php echo base_url() . 'registrasi/getdatafitornot/'.$data['id'] ?>", 
+          dataType: "json", 
+          async: false 
+          }).responseText; 
+           
+      // Create our data table out of JSON data loaded from server. 
+      var data = new google.visualization.DataTable(jsonData); 
+ 
+      // Instantiate and draw our chart, passing in some options. 
+      var chart = new google.visualization.PieChart(document.getElementById('chart_fit_div')); 
+	  google.visualization.events.addListener(chart, 'select', function() { 
+	  var selectedItem = chart.getSelection()[0];
+      if (selectedItem) {
+        var topping = data.getValue(selectedItem.row, 0);
+			window.open('/registrasi/list_data_detail_chart_kategori_medcheck_klik/'+ <?php echo $data['id'] ?> + '/' + encodeURI(topping) );
+      } 
+	 
+     });
+      chart.draw(data, {width: 900, height: 500,pieSliceText: 'value'}); 
+    }
+	
+    function diagnosa() { 
+    var jsonData = $.ajax({ 
+        url: "<?php echo base_url() . 'registrasi/getdatadiagnosa/'.$data['id'] ?>", 
+        dataType: "json", 
+        async: false 
+    }).responseText; 
+     
+    // Create our data table out of JSON data loaded from server. 
+    var data = new google.visualization.DataTable(jsonData); 
+
+    // Instantiate and draw our chart, passing in some options. 
+    var chart = new google.visualization.PieChart(document.getElementById('chart_diagnosa_div'));
+
+    google.visualization.events.addListener(chart, 'select', function() { 
+        var selectedItem = chart.getSelection()[0];
+        if (selectedItem) {
+            var topping = data.getValue(selectedItem.row, 0);
+            window.open('/registrasi/list_data_detail_chart_diagnosa_perbagian_klik/'+ <?php echo $data['id'] ?> + '/' + encodeURI(topping) );
+        } 
+    }); 
+
+    // Set default chart size for the screen
+    var options = {
+        width: 1200,
+        height: 1500,
+        pieSliceText: 'value',
+        fontSize: 16 // Adjust font size for the screen view
+    };
+
+    chart.draw(data, options); 
+
+    // Resize chart when printing using CSS
+    window.onbeforeprint = function () {
+        options.width = 980;  // Adjust chart size for print
+        options.height = 890;
+        options.fontSize = 10;  // Adjust font size for print
+        chart.draw(data, options);
     }
 
-    function fitOrNot() {
-        var jsonData = $.ajax({
-            url: "<?php echo base_url() . 'registrasi/getdatafitornot/'.$data['id'] ?>",
-            dataType: "json",
-            async: false
-        }).responseText;
-
-        var data = new google.visualization.DataTable(jsonData);
-        var chart = new google.visualization.PieChart(document.getElementById('chart_fit_div'));
-        chart.draw(data, {width: 900, height: 500, pieSliceText: 'value'});
+    window.onafterprint = function () {
+        // Reset the size and font after print
+        options.width = 1200;
+        options.height = 1500;
+        options.fontSize = 14;
+        chart.draw(data, options);
     }
+} 
 
-    function diagnosa() {
-        var jsonData = $.ajax({
-            url: "<?php echo base_url() . 'registrasi/getdatadiagnosa/'.$data['id'] ?>",
-            dataType: "json",
-            async: false
-        }).responseText;
-
-        var data = new google.visualization.DataTable(jsonData);
-        var chart = new google.visualization.PieChart(document.getElementById('chart_diagnosa_div'));
-        chart.draw(data, {width: 900, height: 1500, pieSliceText: 'value'});
+	
+	function top10() { 
+      var jsonData = $.ajax({ 
+          url: "<?php echo base_url() . 'registrasi/getdatatopten/'.$data['id'] ?>", 
+          dataType: "json", 
+          async: false 
+          }).responseText; 
+           
+      // Create our data table out of JSON data loaded from server. 
+      var data = new google.visualization.DataTable(jsonData); 
+ 
+      // Instantiate and draw our chart, passing in some options. 
+      var chart = new google.visualization.PieChart(document.getElementById('chart_top_ten')); 
+	  google.visualization.events.addListener(chart, 'select', function() { 
+	  var selectedItem = chart.getSelection()[0];
+      if (selectedItem) {
+        var topping = data.getValue(selectedItem.row, 0);
+			window.open('/registrasi/list_data_detail_chart_diagnosa_perbagian_klik/'+ <?php echo $data['id'] ?> + '/' + encodeURI(topping) );
+      } 
+	 
+     });	
+      chart.draw(data, {width: 900, height: 500,pieSliceText: 'value'}); 
+    } 
+	
+	function faringitis() { 
+      var jsonData = $.ajax({ 
+          url: "<?php echo base_url() . 'registrasi/getdatafaringitis/'.$data['id'] ?>", 
+          dataType: "json", 
+          async: false 
+          }).responseText; 
+           
+      // Create our data table out of JSON data loaded from server. 
+      var data = new google.visualization.DataTable(jsonData); 
+ 
+      // Instantiate and draw our chart, passing in some options. 
+      var chart = new google.visualization.PieChart(document.getElementById('chart_faringitis_div')); 
+      chart.draw(data, {width: 900, height: 500,pieSliceText: 'value'}); 
+    } 
+    
+    function penunjang() { 
+      var jsonData = $.ajax({ 
+          url: "<?php echo base_url() . 'registrasi/getdatapenunjang/'.$data['id'] ?>", 
+          dataType: "json", 
+          async: false 
+          }).responseText; 
+           
+      // Create our data table out of JSON data loaded from server. 
+      var data = new google.visualization.DataTable(jsonData); 
+ 
+      // Instantiate and draw our chart, passing in some options. 
+      var chart = new google.visualization.PieChart(document.getElementById('chart_penunjang_div')); 
+	  google.visualization.events.addListener(chart, 'select', function() { 
+	  var selectedItem = chart.getSelection()[0];
+      if (selectedItem) {
+        var topping = data.getValue(selectedItem.row, 0);
+			window.open('/registrasi/list_data_detail_penunjang_medcheck_klik/'+ <?php echo $data['id'] ?> + '/' + encodeURI(topping) );
+      } 
+	 
+     });
+      chart.draw(data, {width: 900, height: 500,pieSliceText: 'value'}); 
     }
+    
+    function penunjangall() { 
+    var jsonData = $.ajax({ 
+        url: "<?php echo base_url() . 'registrasi/getdatapenunjangall/'.$data['id'] ?>", 
+        dataType: "json", 
+        async: false 
+    }).responseText; 
 
-    function top10() {
-        var jsonData = $.ajax({
-            url: "<?php echo base_url() . 'registrasi/getdatatopten/'.$data['id'] ?>",
-            dataType: "json",
-            async: false
-        }).responseText;
+    // Create our data table out of JSON data loaded from server. 
+    var datas = $.parseJSON(jsonData);
+    datas.forEach((elem, ix) => {
+        var data = new google.visualization.DataTable(elem.data);
+        
+        // Select the chart container dynamically using the 'elem.jenis' value
+        var chartContainerId = 'chart_penunjang_all[\'' + elem.jenis + '\']';
+        
+        // Ensure the chart container is left-aligned
+        document.getElementById(chartContainerId).style.textAlign = 'left';
 
-        var data = new google.visualization.DataTable(jsonData);
-        var chart = new google.visualization.PieChart(document.getElementById('chart_top_ten'));
-        chart.draw(data, {width: 900, height: 500, pieSliceText: 'value'});
-    }
+        var chart = new google.visualization.PieChart(document.getElementById(chartContainerId)); 
 
-    function penunjangall() {
-        var jsonData = $.ajax({
-            url: "<?php echo base_url() . 'registrasi/getdatapenunjangall/'.$data['id'] ?>",
-            dataType: "json",
-            async: false
-        }).responseText;
-
-        var data = new google.visualization.DataTable(jsonData);
-        var chart = new google.visualization.PieChart(document.getElementById('chart_penunjang_all'));
-        chart.draw(data, {width: 900, height: 500, pieSliceText: 'value'});
-    }
-
-    function penunjang() {
-        var jsonData = $.ajax({
-            url: "<?php echo base_url() . 'registrasi/getdatapenunjang/'.$data['id'] ?>",
-            dataType: "json",
-            async: false
-        }).responseText;
-
-        var data = new google.visualization.DataTable(jsonData);
-        var chart = new google.visualization.PieChart(document.getElementById('chart_penunjang'));
-        chart.draw(data, {width: 900, height: 500, pieSliceText: 'value'});
-    }
-
-    // Save as PDF
-    function saveAsPDF(chartId) {
-        const { jsPDF } = window.jspdf;
-        var chartElement = document.getElementById(chartId);
-
-        // Create a new jsPDF instance
-        var doc = new jsPDF();
-
-        // Capture the chart image as base64
-        html2canvas(chartElement).then(function (canvas) {
-            var imgData = canvas.toDataURL('image/jpeg'); // Convert to base64 image
-            doc.addImage(imgData, 'JPEG', 10, 10, 180, 160); // Add image to PDF (adjust size as needed)
-            doc.save('chart.pdf'); // Save PDF
+        google.visualization.events.addListener(chart, 'select', function() { 
+            var selectedItem = chart.getSelection()[0];
+            if (selectedItem) {
+                var topping = data.getValue(selectedItem.row, 0);
+                window.open('/registrasi/list_data_detail_penunjang_all_medcheck_klik/' + <?php echo $data['id'] ?> + '/' + elem.jenis + '/' + encodeURI(topping));
+            } 
         });
-    }
-</script>
+        chart.draw(data, {width: 900, height: 900, pieSliceText: 'value'}); 
+    });
+}
 
-</body>
-</html>
+    </script>
