@@ -2807,6 +2807,31 @@ class Registrasi extends CI_Controller {
      
          redirect( base_url().'registrasi/detailMedicalCheckups/'.$idPelayanan.'?year1='.$year1.'&year2='.$year2);
 }
+
+public function get_years() {
+    // Example data (in a real application, this data would likely come from a database)
+    $years = [
+        ["year" => "2020"],
+        ["year" => "2021"],
+        ["year" => "2022"],
+        ["year" => "2023"],
+        ["year" => "2024"],
+        ["year" => "2025"],
+        ["year" => "2026"],
+        ["year" => "2027"],
+        ["year" => "2028"],
+        ["year" => "2029"],
+        ["year" => "2030"],
+        ["year" => "2031"]
+    ];
+
+    // Return the data as a JSON response
+    echo json_encode($years);
+}
+
+
+
+
 	
 	public function save_trx_resume_anjuran() {   
 				$data['status'] = "ACTIVE";

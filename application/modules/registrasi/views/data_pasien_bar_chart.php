@@ -33,18 +33,24 @@ h2 {
             }
             
             #chart_fit_div {
-            width: 100%;  /* Make the chart fit the entire width of the page */
+            width: 10%;  /* Make the chart fit the entire width of the page */
             height: auto;  /* Allow height to adjust dynamically */
             max-width: 100%;  /* Ensure chart doesn't overflow */
-            margin: 0 0 250px -350px;  /* Center the chart */
+            margin: -0px 0 250px -350px;  /* Center the chart */
             text-align: left; /* Left-align the chart during printing */
+        }
+        .diagnos{
+            margin-top:-20px;
+            margin-bottom:-45px;
+            z-index: 1999;
         }
 
         #chart_diagnosa_div {
         width: 30% !important;  /* Set width to full page */
-        height: 3700px !important;  /* Allow height to adjust based on content */
+        height: 3500px !important;  /* Allow height to adjust based on content */
         margin-top:-94px;
         margin-left:-250px;
+        z-index: 100;
         /* margin-bottom:23950px; */
     }
 
@@ -62,6 +68,7 @@ h2 {
               text-align:left;
                 visibility: visible; /* Visible when printing */
             }
+            
 
             .print-button{
                 visibility:hidden;
@@ -107,17 +114,36 @@ h2 {
             }
 
             #chart_fit_div {
-            width: 100% !important;  /* Set width to full page */
-            height: auto !important;  /* Adjust height based on content */
+            width: 40% !important;  /* Set width to full page */
             text-align: left !important; /* Ensure left alignment */
+            margin-bottom:500px;
+        }
+
+        #chart_div {
+            width: 40% !important;  /* Set width to full page */
+            text-align: left !important; /* Ensure left alignment */
+            margin-bottom:500px;
         }
 
     
             #chart_penunjang_all {
-                width: 100% !important;  /* Set width to full page */
-                height: 6200px !important;  /* Adjust height based on content */
+                width: 20% !important;  /* Set width to full page */
+                height: auto !important;  /* Adjust height based on content */
                 text-align: left !important; /* Ensure left alignment */
-                margin-bottom:650px;
+                margin-top:-100px;
+                margin-left:-200px;
+                margin-bottom:90px;
+            }
+            
+            #chart_penunjang_allaudiometri{
+                margin-bottom:-300px;
+                height:300px;
+                margin-left:-200px;
+            }
+
+            #chart_penunjang_allekg{
+                margin-top:-2600px;
+                height:300px;
             }
 
 
@@ -129,59 +155,7 @@ h2 {
     }
 
     /* Optional: hide elements you don't want printed */
-    .no-print {
-        display: none !important;
-    }
-
-            /* Reducing chart sizes specifically for printing */
-            #chart_div, #chart_top_ten, .chart-penunjang-all {
-                width: 100% !important;  /* Use full width of the page */
-                height: 300px !important; /* Reduce the height to make charts smaller */
-            }
-
-            /* Reduce font size of subtitles */
-            .div-subtitle {
-                font-size: 10px !important;
-                font-style: italic;
-            }
-
-            /* Adjust chart titles and descriptions */
-            h1 {
-                font-size: 16px !important;
-            }
-            .judulcetak{
-              margin-top:-10px;
-
-            }
-
-            .font-subtitle {
-                font-size: 10px !important;
-                font-style: italic;
-                text-align:center;
-            }
-
-            /* Align all charts to the left when printing */
-            #print-container {
-                text-align: left !important; /* Ensure left alignment */
-            }
-
-            /* Ensure each chart container is also left-aligned */
-            .chart-section {
-                text-align: left !important;
-                margin-left: 0 !important;
-                padding-left: 0 !important;
-            }
-
-            /* Additional tweaks for chart section layout */
-            .chart-section h1, .chart-section h2, .div-subtitle {
-                text-align: left !important; /* Left-align headings and subtitles */
-            }
-
-            /* Optional: Reset any large margins for charts */
-            .chart-section div {
-                margin: 0;
-                padding: 0;
-            }
+  
         }
 </style> 
 
@@ -201,7 +175,7 @@ h2 {
 	<div id="chart_fit_div"></div>
   
 	<h1><a href="<?php echo site_url('/registrasi/list_data_detail_chart_diagnosa_perbagian_pertahun/'.$data['id']); ?>" target="_blank" class="blue">Jumlah Temuan Diagnosa</a></h1> 
-	<h2>Jumlah Temuan Diagnosa</h2> 
+	<h2 class="diagnos">Jumlah Temuan Diagnosa</h2> 
   
   <div class="div-subtitle"><span class="font-subtitle">Number of Diagnostic Finding</span></div>
   <div class="judulcetak">   
@@ -222,12 +196,15 @@ h2 {
         <h2>Data Penunjang <?php echo $valp->jenis_pemeriksaan; ?></h2> 
         <div class="div-subtitle"><span class="font-subtitle"><?php echo $valp->jenis_pemeriksaan; ?> Supporting Data</span></div>
         <div id="chart_penunjang_all['<?php echo $valp->jenis_pemeriksaan; ?>']"></div>
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
     <?php
         }
     ?>
+    
 	
     
 </div> 
+
 </div> 
 </div> 
 </div> 
@@ -306,7 +283,7 @@ h2 {
         tooltip: {textStyle: {fontSize: 14}},
         height: chartHeight,
         chartArea: {
-          width: '75%',
+          width: '40%',
           height: '100%',
           bottom: 20,
         },
@@ -536,8 +513,8 @@ function diagnosa() {
         tooltip: {textStyle: {fontSize: 14}},
         height: chartHeight,
         chartArea: {
-          width: '75%',
-          height: '100%',
+          width: '30%',
+          height: '2000px',
           bottom: 20,
         },
         bar: {groupWidth: "90%"},
@@ -590,8 +567,8 @@ function diagnosa() {
             tooltip: {textStyle: {fontSize: 14}},
             height: chartHeight,
             chartArea: {
-              width: '40%',
-              height: '3500px',
+              width: '30%',
+              height: '2000px',
               bottom: 20,
             },
             bar: {groupWidth: "90%"},

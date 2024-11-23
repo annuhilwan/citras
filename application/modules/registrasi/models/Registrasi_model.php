@@ -920,7 +920,18 @@ $saveMP = array();
 						->result_array();
 	}
 	
+	public function get_unique_years() {
+		// Manual SQL query to get unique years from the created_date field in the trx_resume table
+		$sql = "SELECT DISTINCT YEAR(created_date) AS year FROM trx_resume ORDER BY year ASC";
+		
+		// Execute the query
+		$query = $this->db->query($sql);
 	
+		// Return the result as an array of years
+		return $query->result_array();  // This will return an array like: [['year' => 2020], ['year' => 2021], ...]
+	}
+	
+
 
 	
 	
@@ -1118,7 +1129,14 @@ $saveMP = array();
 				}
 			} else {
 				// Log when the value is within range
-				log_message('debug', 'Value ' . $value . ' is within range. No insert into trx_resume.');
+				log_message('debug', 'Value ' . $value . ' is within range. Deleting from trx_resume if needed.');
+	
+				// Step 4: If the value is within range, delete related records from trx_resume
+				$this->db->where('hasil_resume LIKE', '%'.$row['nama_pemeriksaan'].'%');
+				$this->db->where('id_pelayanan', $row['id_pelayanan']);
+				$this->db->where('jenis_resume', 'KESIMPULAN');
+				$this->db->delete('trx_resume');  // Delete the matching record(s)
+				log_message('debug', 'Deleted from trx_resume where hasil_resume LIKE ' . $row['nama_pemeriksaan']);
 			}
 		} else {
 			// Log if no row was found
