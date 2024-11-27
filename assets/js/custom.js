@@ -592,6 +592,19 @@ $(document).ready(function() {
       $('#nameModal_user').modal('show'); 
     })
   });
+
+  $(".content-wrapper").on("click",".modalButtonComparePasien", function(e) {
+    $.ajax({
+      url : $('body').attr('data-base-url') + 'registrasi/get_modal_compare_pasien',
+      method: 'post', 
+      data : {
+        id: $(this).attr('data-src')
+      }
+    }).done(function(data) {
+      $('#nameModal_user').find('.modal-body').html(data);
+      $('#nameModal_user').modal('show'); 
+    })
+  });
   
   $(".content-wrapper").on("click",".modalButtonPenunjang", function(e) {
     $.ajax({

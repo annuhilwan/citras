@@ -827,6 +827,7 @@ p:empty {
 <br>
 
 	<table id="datatable" class="table table-striped" style="width:100%">
+	<button type="button" class="btn-sm btn btn-success modalButtonComparePasien" data-src="<?php echo $arrDataPasien['id']; ?>" data-toggle="modal"><i class="glyphicon glyphicon-plus"></i> Compare</button>
 						<thead>
 							<tr>
 								<td>Perhitungan BMI</td>
@@ -909,7 +910,142 @@ p:empty {
                 </div>
 						
 						</div>
-						
+						<div class="x_content table-responsive">
+                	<table id="datatable" class="table table-striped" style="width:100%">
+						<thead>
+							<tr>
+								<th>No</th>
+								<th>Nama Resume</th>
+								<th>Hasil Resume</th>
+								<th>Dokter</th>							
+								<th>User</th>
+								<th>Tanggal Input</th>
+								<?php if($this->session->userdata('user_details')[0]->user_type == 'Medical Record' or 'Lab') { ?>
+								<th>Hapus</th>
+								<?php } ?>
+							</tr>
+						</thead>
+						<tbody id="myTable">
+						<?php
+							$ct = 1;
+							foreach ((Array) $arrDataResume AS $key => $val) { 
+							?>	<tr>
+								<td><?php echo $ct; ?></td>
+								<td><?php echo $val['jenis_resume']; ?></td>      
+								<td><?php echo $val['hasil_resume']; ?></td>
+								<td><?php echo $val['nama_dokter']; ?></td>
+								<td><?php echo $val['name']; ?></td>
+								<td><?php echo ($val['created_date'] !== null ? date('d M Y G:i:s', strtotime($val['created_date']) + 60*60*7) : null); ?></td>
+								<?php if($this->session->userdata('user_details')[0]->user_type == 'Medical Record' or 'Lab') { ?>
+								<td>
+								<a  data-toggle="modal" class="mClass" onclick="delIdDataTrxResume(<?php echo $val['id']; ?>, 'registrasi')" data-target="#cnfrm_delete" title="delete"><i class="fa fa-trash-o" data-id=""></i></a>
+								</td> 
+								<?php } ?>
+								</tr>
+								<?php $ct++; 
+							}
+							?>
+						</tbody>
+					</table>
+
+					<div id="comparison-result" class="x_content table-responsive">
+   <?php if (!empty($year1) && !empty($year2)): ?> <!-- Check if both years are provided -->
+    <h3>Perbandingan Resume Tahun <?php echo htmlspecialchars($year1); ?> dan <?php echo htmlspecialchars($year2); ?></h3>
+
+    <!-- Table for Year 1 -->
+    <?php if (!empty($arrDataResumeYear1)): ?>
+        <h4>Resume Tahun <?php echo htmlspecialchars($year1); ?></h4>
+        <table class="table table-striped" style="width:100%">
+            <thead>
+                <tr>
+                    <th>No</th>
+                    <th>Jenis Resume</th>
+                    <th>Hasil <?php echo htmlspecialchars($year1); ?></th>
+                </tr>
+            </thead>
+            <tbody>
+                <?php $ct = 1; ?>
+                <?php foreach ($arrDataResumeYear1 as $item): ?>
+                    <tr>
+                        <td><?php echo $ct++; ?></td>
+                        <td><?php echo htmlspecialchars($item['jenis_resume']); ?></td>
+                        <td><?php echo htmlspecialchars($item['hasil_resume']); ?></td>
+                    </tr>
+                <?php endforeach; ?>
+            </tbody>
+        </table>
+    <?php else: ?>
+        <p>No resume data available for Tahun <?php echo htmlspecialchars($year1); ?>.</p>
+    <?php endif; ?>
+
+    <!-- Table for Year 2 -->
+    <?php if (!empty($arrDataResumeYear2)): ?>
+        <h4>Resume Tahun <?php echo htmlspecialchars($year2); ?></h4>
+        <table class="table table-striped" style="width:100%">
+            <thead>
+                <tr>
+                    <th>No</th>
+                    <th>Jenis Resume</th>
+                    <th>Hasil <?php echo htmlspecialchars($year2); ?></th>
+                </tr>
+            </thead>
+            <tbody>
+                <?php $ct = 1; ?>
+                <?php foreach ($arrDataResumeYear2 as $item): ?>
+                    <tr>
+                        <td><?php echo $ct++; ?></td>
+                        <td><?php echo htmlspecialchars($item['jenis_resume']); ?></td>
+                        <td><?php echo htmlspecialchars($item['hasil_resume']); ?></td>
+                    </tr>
+                <?php endforeach; ?>
+            </tbody>
+        </table>
+    <?php else: ?>
+        <p>No resume data available for Tahun <?php echo htmlspecialchars($year2); ?>.</p>
+    <?php endif; ?>
+
+    <!-- Table for Comparison (Both Year Results Side by Side) -->
+    <?php if (!empty($arrDataResumeYear1) && !empty($arrDataResumeYear2)): ?>
+        <h4>Perbandingan Hasil Resume Tahun <?php echo htmlspecialchars($year1); ?> dan <?php echo htmlspecialchars($year2); ?></h4>
+        <table class="table table-striped" style="width:100%">
+            <thead>
+                <tr>
+                    <th>No</th>
+                    <th>Jenis Resume</th>
+                    <th>Hasil <?php echo htmlspecialchars($year1); ?></th>
+                    <th>Hasil <?php echo htmlspecialchars($year2); ?></th>
+                </tr>
+            </thead>
+            <tbody>
+                <?php $ct = 1; ?>
+                <?php foreach ($arrDataResumeYear1 as $key => $item): ?>
+                    <tr>
+                        <td><?php echo $ct++; ?></td>
+                        <td><?php echo htmlspecialchars($item['jenis_resume']); ?></td>
+                        <td><?php echo htmlspecialchars($item['hasil_resume']); ?></td>
+                        <td>
+                            <?php 
+                                // Make sure we have both year 1 and year 2 data for the same jenis_resume
+                                echo !empty($arrDataResumeYear2[$key]) ? htmlspecialchars($arrDataResumeYear2[$key]['hasil_resume']) : 'No data';
+                            ?>
+                        </td>
+                    </tr>
+                <?php endforeach; ?>
+            </tbody>
+        </table>
+    <?php endif; ?>
+
+<?php else: ?>
+    <p>Please select both years to compare.</p>
+<?php endif; ?>
+
+
+</div>
+
+
+
+
+	</div>
 					
 						
 					<div class="modal fade" id="nameModal_user" role="dialog">

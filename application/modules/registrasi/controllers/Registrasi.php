@@ -303,50 +303,51 @@ class Registrasi extends CI_Controller {
         echo json_encode($responce); 
         }
 		
-		public function getdatadiagnosa($id) 
-{ 
-    // Get the data from the model
-    $data = $this->Registrasi_model->get_data_diagnosa_graph($id);
-
-    // Initialize the response object
-    $response = new stdClass();
-
-    // Set columns for the chart
-    $response->cols[] = array(
-        "id" => "",
-        "label" => "Diagnosa",
-        "pattern" => "",
-        "type" => "string"
-    );
-    $response->cols[] = array(
-        "id" => "",
-        "label" => "Total",
-        "pattern" => "",
-        "type" => "number"
-    );
-
-    // Populate rows with the data
-    foreach ($data as $cd) 
-    {
-        // Combine hasil_resume (diagnosis name) and jumlah (count) in one string
-        $diagnosaLabel = $cd->hasil_resume . ' (' . $cd->jumlah . ')';
-
-        // Add combined diagnosis and count to the response
-        $response->rows[]["c"] = array(
-            array(
-                "v" => $diagnosaLabel,  // Combined label like "Hypertension (150)"
-                "f" => null
-            ),
-            array(
-                "v" => (int)$cd->jumlah,  // Total count as a number
-                "f" => null
-            )
-        );
-    }
-
-    // Send the response as a JSON object
-    echo json_encode($response); 
-}
+        public function getdatadiagnosa($id) 
+        { 
+            // Get the data from the model
+            $data = $this->Registrasi_model->get_data_diagnosa_graph($id);
+        
+            // Initialize the response object
+            $response = new stdClass();
+        
+            // Set columns for the chart
+            $response->cols[] = array(
+                "id" => "",
+                "label" => "Diagnosa",
+                "pattern" => "",
+                "type" => "string"
+            );
+            $response->cols[] = array(
+                "id" => "",
+                "label" => "Total",
+                "pattern" => "",
+                "type" => "number"
+            );
+        
+            // Populate rows with the data
+            foreach ($data as $cd) 
+            {
+                // Use only the diagnosis name (hasil_resume) without jumlah
+                $diagnosaLabel = $cd->hasil_resume;  // No (jumlah) here
+        
+                // Add diagnosis name (hasil_resume) and total count (jumlah) to the response
+                $response->rows[]["c"] = array(
+                    array(
+                        "v" => $diagnosaLabel,  // Just the diagnosis name
+                        "f" => null
+                    ),
+                    array(
+                        "v" => (int)$cd->jumlah,  // Total count as a number
+                        "f" => null
+                    )
+                );
+            }
+        
+            // Send the response as a JSON object
+            echo json_encode($response); 
+        }
+        
 
 
 		public function getdatatopten($id) 
@@ -1819,8 +1820,31 @@ class Registrasi extends CI_Controller {
 		$arrDataUsers = $this->Registrasi_model->get_users($id);
 		$arrDataLab = $this->Registrasi_model->get_data_labs($id);
 		$arrDataRadiologi = $this->Registrasi_model->get_data_radiologi($id);
-		$arrDataResume = $this->Registrasi_model->get_data_resume($id);
+        $arrDataResume = $this->Registrasi_model->get_data_resume($id);
+        $arrDataResumes = $this->Registrasi_model->get_data_resume($id);
 		$arrDataPenunjang = $this->Registrasi_model->get_data_penunjang($id);
+
+         // Fetch selected years from GET request
+         $year1 = $this->input->get('year1');
+         $year2 = $this->input->get('year2');
+ 
+           // Dynamically build the URL with query parameters
+         $url = site_url('registration/detailMedicalCheckupsPerPasien/'.$id.'?year1='.$year1.'&year2='.$year2);
+ 
+     
+          // Fetch data for the selected years if available
+          if ($year1 && $year2) {
+             // Call the model to fetch resume data for the selected years
+             $arrDataResumeYear1 = $this->Registrasi_model->get_data_resume_by_year($id, $year1);
+             $arrDataResumeYear2 = $this->Registrasi_model->get_data_resume_by_year($id, $year2);
+         } else {
+             // If no years are selected, fetch all resume data
+             $arrDataResume = $this->Registrasi_model->get_data_resume($id);
+             $arrDataResumes = $this->Registrasi_model->get_data_resume($id);
+             $arrDataResumeYear1 = $arrDataResumes;
+             $arrDataResumeYear2 = $arrDataResumes;
+         }
+     
 		
 		$user_type = $this->session->userdata ('user_details')[0]->user_type;
         if (strtolower($user_type) == 'pasien' && $arrDataDetailPasien['id_pasien'] != $this->pasien_id) {
@@ -1840,7 +1864,15 @@ class Registrasi extends CI_Controller {
 														'arrPertanyaanFisikAbdomen'=>$arrPertanyaanFisikAbdomen,'arrPertanyaanFisikNeuromuscular'=>$arrPertanyaanFisikNeuromuscular,
 														'arrPertanyaanFisikKeteranganLain'=>$arrPertanyaanFisikKeteranganLain,'arrPertanyaanFisikGenetalia'=>$arrPertanyaanFisikGenetalia,
 														'arrDataUsers'=>$arrDataUsers,'arrDataLab'=>$arrDataLab,'arrDataRadiologi'=>$arrDataRadiologi,
-														'arrDataResume'=>$arrDataResume,'arrDataPenunjang'=>$arrDataPenunjang,'data_bmi'=>$data_bmi,
+														'arrDataPenunjang'=>$arrDataPenunjang,'arrDataResume' => $arrDataResume,
+            'arrDataResumes' => $arrDataResumes,
+            'arrDataResumeYear1' => $arrDataResumeYear1,
+            'arrDataResumeYear2' => $arrDataResumeYear2,
+            'year1' => $year1,
+            'year2' => $year2,
+            'data_year1' => $data_year1,
+            'data_year2' => $data_year2,
+            'url' => $url, // Pass the dynamically created URL to the view'data_bmi'=>$data_bmi,
 														'data_tanggal_lahir'=>$data_tanggal_lahir,'arrDataDetailPasien'=>$arrDataDetailPasien,
 														'arrDataDetailPerusahaanPasien'=>$arrDataDetailPerusahaanPasien));
         $this->load->view('include/footer');
@@ -2603,6 +2635,20 @@ class Registrasi extends CI_Controller {
             'year2' => $year2
         );
         echo $this->load->view('modal_compare', $data, true);
+        exit;
+    }
+
+    public function get_modal_compare_pasien() {
+        is_login();
+		$idPasien = $this->input->post('id');
+        $year1 = $this->input->get('year1');
+        $year2 = $this->input->get('year2');
+        $data = array(
+            'idPasien' => $idPasien,
+            'year1' => $year1,
+            'year2' => $year2
+        );
+        echo $this->load->view('modal_compare_pasien', $data, true);
         exit;
     }
 	

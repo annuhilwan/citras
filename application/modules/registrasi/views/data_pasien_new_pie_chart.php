@@ -10,7 +10,7 @@ h2{
 }
 .div-subtitle {
     text-align: center;
-    margin-top: -15px;
+    margin-top: -55px;
 }
 
 .font-subtitle {
@@ -26,6 +26,11 @@ h2{
                 display: none;
             }
             
+            .div-subtitle {
+                text-align: center;
+                margin-top: 0;
+            }
+
           /*  #    {
             width: 100%;  
             height: auto; 
@@ -143,10 +148,10 @@ h2{
                 text-align: left !important; /* Ensure left alignment */
             }
 
-	#chart_fit_div {
-        margin-left:-150px;
-        margin-bottom:1800px;
-    }    
+            #chart_fit_div {
+                margin-left:-150px;
+                margin-bottom:1800px;
+            }    
 
             /* Ensure each chart container is also left-aligned */
             .chart-section {
@@ -364,12 +369,13 @@ h2{
         } 
     }); 
 
-    // Set default chart size for the screen
+    // Set default chart size and other options
     var options = {
         width: 1200,
         height: 1500,
         pieSliceText: 'value',
-        fontSize: 16 // Adjust font size for the screen view
+        fontSize: 16, // Adjust font size for the screen view
+        backgroundColor: 'transparent' // Make the background transparent
     };
 
     chart.draw(data, options); 
@@ -379,6 +385,7 @@ h2{
         options.width = 980;  // Adjust chart size for print
         options.height = 890;
         options.fontSize = 10;  // Adjust font size for print
+        options.backgroundColor = 'transparent'; // Keep the background transparent when printing
         chart.draw(data, options);
     }
 
@@ -387,9 +394,10 @@ h2{
         options.width = 1200;
         options.height = 1500;
         options.fontSize = 14;
+        options.backgroundColor = 'transparent'; // Keep the background transparent after print
         chart.draw(data, options);
     }
-} 
+}
 
 	
 	function top10() { 
