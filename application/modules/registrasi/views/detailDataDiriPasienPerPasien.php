@@ -205,8 +205,7 @@ p:empty {
 						<div role="tabpanel" class="tab-pane active in" id="tab_content1" aria-labelledby="spj-tab">
 						<br/>
 				<div class="x_content table-responsive">
-					<button type="button" class="btn-sm btn btn-success modalButtonComparePasien" data-src="<?php echo $arrDataPasien['id']; ?>" data-toggle="modal"><i class="glyphicon glyphicon-plus"></i> Compare Resume</button>
-                	<table id="datatable" class="table table-striped" style="width:100%">
+					<table id="datatable" class="table table-striped" style="width:100%">
 						<thead>
 							<tr>
 								<th>No</th>

@@ -83,7 +83,7 @@
 
                 if (yearPattern.test(year1) && yearPattern.test(year2)) {
                     // Generate the URL with query parameters dynamically
-                    var redirectUrl = "<?php echo site_url('registrasi/detailDataPasienPerPasien/'); ?>/" + idPasien + "?year1=" + year1 + "&year2=" + year2;
+                    var redirectUrl = "<?php echo site_url('registrasi/detailMedicalCheckupsPerPasien/'); ?>/" + idPasien + "?year1=" + year1 + "&year2=" + year2;
 
                     // Now submit the form using AJAX
                     $.ajax({
