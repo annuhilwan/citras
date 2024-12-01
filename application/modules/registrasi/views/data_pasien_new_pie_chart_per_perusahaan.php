@@ -37,6 +37,7 @@ h2{
         #chart_diagnosa_div {
             margin-top:-10px;
             margin-left:-180px;
+            margin-bottom:50px;
             
         }
 
@@ -52,6 +53,7 @@ h2{
             h2 {
               text-align:left;
                 visibility: visible; /* Visible when printing */
+                margin-bottom:-20px;
             }
 
             .print-button{
@@ -78,6 +80,7 @@ h2{
                 font-size: 12px;
                 font-style: italic;
                 text-align:center;
+                margin-top:-30px;
             }
 
             /* Force page breaks after each chart section */
@@ -182,19 +185,20 @@ h2{
        </div>
     </div>
    <div class="box-body"> 
+   <h2>Kategori Kesehatan Medical Checkup</h2>
      <h1><a href="<?php echo site_url('/registrasi/list_data_detail_chart_kategori_medcheck/'.$data['id']); ?>" target="_blank" class="blue">Kategori Kesehatan Medical Checkup</a></h1> 
-     <h2>Kategori Kesehatan Medical Checkup</h2>
+    
      <div class="div-subtitle"><span class="font-subtitle">Medical Checkup Health Category</span></div>
 	 
 	<div id="chart_fit_div"></div>    
-    
+    <h2>Jumlah Temuan Diagnosa</h2>
 	<h1><a href="<?php echo site_url('/registrasi/list_data_detail_chart_diagnosa_perbagian/'.$data['id']); ?>" target="_blank" class="blue">Jumlah Temuan Diagnosa</a></h1> 
-	<h2>Jumlah Temuan Diagnosa</h2>
+	
     <div class="div-subtitle"><span class="font-subtitle">Number of Diagnostic Finding</span></div>
 	<div id="chart_diagnosa_div"></div>  
-	
-	<h1><a href="<?php echo site_url('/registrasi/list_data_detail_chart_diagnosa_perbagian/'.$data['id']); ?>" target="_blank" class="blue">Diagnosa 10 Terbanyak</a></h1> 
 	<h2>Diagnosa 10 Terbanyak</h2>
+	<h1><a href="<?php echo site_url('/registrasi/list_data_detail_chart_diagnosa_perbagian/'.$data['id']); ?>" target="_blank" class="blue">Diagnosa 10 Terbanyak</a></h1> 
+	
     <div class="div-subtitle"><span class="font-subtitle">Most 10 Diagnostics</span></div>
 
     <div class="table">
@@ -232,9 +236,9 @@ h2{
 	<h1><a href="<?php echo site_url('/registrasi/list_data_detail_chart_faringitis/'.$data['id']); ?>" target="_blank" class="blue">Jumlah Temuan Faringitis per Bagian</a></h1> 
 	<div id="chart_faringitis_div"></div> 
 	-->
-	
-	<h1><a href="<?php echo site_url('/registrasi/list_data_detail_chart_jenis_kelamin/'.$data['id']); ?>" target="_blank" class="blue">Penyebaran Data Kelamin</a></h1> 
 	<h2>Penyebaran Kelamin</h2>
+	<h1><a href="<?php echo site_url('/registrasi/list_data_detail_chart_jenis_kelamin/'.$data['id']); ?>" target="_blank" class="blue">Penyebaran Data Kelamin</a></h1> 
+	
     <div class="div-subtitle"><span class="font-subtitle">Spread of Gender Data</span></div>
     <div id="chart_div"></div> 
     <!--<h1><a href="<?php echo site_url('/registrasi/list_data_detail_penunjang_medcheck/'.$data['id']); ?>" target="_blank" class="blue">Data Penunjang</a></h1> -->
@@ -242,10 +246,11 @@ h2{
     <?php 
         foreach ((Array) $penunjang AS $keyp => $valp) { 
     ?>
+      <h2>Data Penunjang <?php echo $valp->jenis_pemeriksaan; ?></h2>
         <h1><a href="<?php echo site_url('/registrasi/list_data_detail_penunjang_medcheck_klik/'.$data['id'].'/'.$valp->jenis_pemeriksaan); ?>" target="_blank" class="blue">
             Data Penunjang <?php echo $valp->jenis_pemeriksaan; ?>
         </a></h1>
-        <h2>Data Penunjang <?php echo $valp->jenis_pemeriksaan; ?></h2>
+      
         <div class="div-subtitle"><span class="font-subtitle"><?php echo $valp->jenis_pemeriksaan; ?> Supporting Data</span></div>
         <div id="chart_penunjang_all['<?php echo $valp->jenis_pemeriksaan; ?>']"></div>
     <?php
@@ -369,7 +374,8 @@ h2{
         width: 1200,
         height: 1500,
         pieSliceText: 'value',
-        fontSize: 16 // Adjust font size for the screen view
+        fontSize: 16, // Adjust font size for the screen view
+        backgroundColor: 'transparent' 
     };
 
     chart.draw(data, options); 

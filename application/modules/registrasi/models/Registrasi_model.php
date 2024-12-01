@@ -933,7 +933,26 @@ $saveMP = array();
 	
 
 
+	public function get_data_by_pasien_years($id, $year1, $year2) {
+		// SQL query with JOIN and filtering by year and id_pasien
+		$this->db->select('t1.*, t2.*, YEAR(t1.created_date) AS year1, YEAR(t2.created_date) AS year2');
+		$this->db->from('trx_pelayanan t1');
+		$this->db->join('trx_resume t2', 't1.id = t2.id_pelayanan', 'left');
+		$this->db->where('t1.id_pasien', $id);
+		$this->db->where('YEAR(t1.created_date)', $year1);
+		$this->db->where('YEAR(t2.created_date)', $year2);
 	
+		// Log the query for debugging
+		log_message('debug', 'Query: ' . $this->db->last_query());
+	
+		// Get the query result and return it
+		$query = $this->db->get();
+		return $query->result_array(); // Returns the results as an array
+	}
+	
+
+
+
 	
 	function get_data_resume_kesimpulan($id){
 

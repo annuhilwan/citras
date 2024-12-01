@@ -205,6 +205,7 @@ p:empty {
 						<div role="tabpanel" class="tab-pane active in" id="tab_content1" aria-labelledby="spj-tab">
 						<br/>
 				<div class="x_content table-responsive">
+					<button type="button" class="btn-sm btn btn-success modalButtonComparePasien" data-src="<?php echo $arrDataPasien['id']; ?>" data-toggle="modal"><i class="glyphicon glyphicon-plus"></i> Compare Resume</button>
                 	<table id="datatable" class="table table-striped" style="width:100%">
 						<thead>
 							<tr>
@@ -240,6 +241,32 @@ p:empty {
 						</tbody>
 					</table>
 					
+					<?php if (isset($getdatabypasienyears) && !empty($getdatabypasienyears)): ?>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Pelayanan ID</th>
+                <th>Nama Perusahaan</th>
+                <th>Year 1 (Trx Pelayanan)</th>
+                <th>Year 2 (Trx Resume)</th>
+                <!-- Add more columns based on your data needs -->
+            </tr>
+        </thead>
+        <tbody>
+            <?php foreach ($getdatabypasienyears as $data): ?>
+                <tr>
+                    <td><?php echo $data['id']; ?></td>
+                    <td><?php echo $data['nama_perusahaan']; ?></td>
+                    <td><?php echo $data['year1']; ?></td>
+                    <td><?php echo $data['year2']; ?></td>
+                </tr>
+            <?php endforeach; ?>
+        </tbody>
+    </table>
+<?php else: ?>
+    <p>No data found for the specified pasien.</p>
+<?php endif; ?>
+
                 </div>
 							
 							

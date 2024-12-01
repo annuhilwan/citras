@@ -1872,11 +1872,17 @@ class Registrasi extends CI_Controller {
             'year2' => $year2,
             'data_year1' => $data_year1,
             'data_year2' => $data_year2,
-            'url' => $url, // Pass the dynamically created URL to the view'data_bmi'=>$data_bmi,
+            'url' => $url, // Pass the dynamically created URL to the view
+            'data_bmi'=>$data_bmi,
 														'data_tanggal_lahir'=>$data_tanggal_lahir,'arrDataDetailPasien'=>$arrDataDetailPasien,
 														'arrDataDetailPerusahaanPasien'=>$arrDataDetailPerusahaanPasien));
         $this->load->view('include/footer');
     }
+
+
+   
+    
+
 	
 	public function detailDataPasien($id='') {   
         is_login();
@@ -1901,6 +1907,29 @@ class Registrasi extends CI_Controller {
         $this->load->view('detailDataDiriPasienPerPasien', Array('arrDataPasien'=>$arrDataPasien,'data'=>$data,'dataRawat'=>$dataRawat));
         $this->load->view('include/footer');
     }
+
+    public function get_data_by_pasien_years($id = '', $year1 = 2020, $year2 = 2024) {
+        is_login();
+        $user_type = $this->session->userdata ('user_details')[0]->user_type;
+        if (strtolower($user_type) == 'pasien' && $id != $this->pasien_id) {
+            redirect( base_url().'registrasi/list_data_pasien_new_per_pasien');
+        }
+        // Fetch the data from the model
+        $data['getdatabypasienyears'] = $this->Register_model->get_data_by_pasien_years($id, $year1, $year2);
+    
+        // Check if data is returned
+        if (empty($data['getdatabypasienyears'])) {
+            log_message('debug', 'No data returned for pasien id: ' . $id);
+        } else {
+            log_message('debug', 'Data returned: ' . print_r($data['getdatabypasienyears'], true));
+        }
+    
+        // Load views and pass the data
+        $this->load->view('include/header'); 
+        $this->load->view('getdatabypasienyearsview', $data); // Pass $data directly
+        $this->load->view('include/footer');
+    }
+    
 	
 	public function detailRawatJalan($id='') {   
         is_login();
